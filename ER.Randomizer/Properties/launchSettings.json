@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ER.Randomizer": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,2791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gparam>
+  <compression>DCX_KRAK</compression>
+  <game>Sekiro</game>
+  <unk0D>True</unk0D>
+  <unk14>0</unk14>
+  <unk40>6.5</unk40>
+  <unk50>24</unk50>
+  <groups>
+    <group name1="LightSet ParamEditor" name2="LightSet">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="Directional Light Angle0" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">-0.174533 0.872665</value>
+        <value id="0" timeOfDay="4">-0.872665 0.872665</value>
+        <value id="0" timeOfDay="8">-0.872665 -2.199115</value>
+        <value id="0" timeOfDay="12">0 -2.199115</value>
+        <value id="0" timeOfDay="15">0 -2.199115</value>
+        <value id="0" timeOfDay="21">-0.698132 0.872665</value>
+        <value id="0" timeOfDay="22.5">-0.174533 0.872665</value>
+        <value id="10" timeOfDay="0">-0.763283 2.419026</value>
+        <value id="11" timeOfDay="0">-0.763283 2.419026</value>
+      </param>
+      <param name1="Directional Light DiffColor0" name2="DiffColor" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 0.45</value>
+        <value id="0" timeOfDay="4">1 1 1 0.5</value>
+        <value id="0" timeOfDay="8">1 1 1 0.5</value>
+        <value id="0" timeOfDay="12">1 1 1 0.5</value>
+        <value id="0" timeOfDay="15">1 1 1 0</value>
+        <value id="0" timeOfDay="21">1 1 1 0.3</value>
+        <value id="0" timeOfDay="22.5">1 1 1 0.3</value>
+        <value id="10" timeOfDay="0">1 1 1 0.6</value>
+        <value id="11" timeOfDay="0">1 1 1 0.6</value>
+      </param>
+      <param name1="Directional Light SpecColor0" name2="SpecColor" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 0.45</value>
+        <value id="0" timeOfDay="4">1 1 1 0.5</value>
+        <value id="0" timeOfDay="8">1 1 1 0.5</value>
+        <value id="0" timeOfDay="12">1 1 1 0.5</value>
+        <value id="0" timeOfDay="15">1 1 1 0</value>
+        <value id="0" timeOfDay="21">1 1 1 0.3</value>
+        <value id="0" timeOfDay="22.5">1 1 1 0.3</value>
+        <value id="10" timeOfDay="0">1 1 1 0.6</value>
+        <value id="11" timeOfDay="0">1 1 1 0.6</value>
+      </param>
+      <param name1="Directional Light Sharpness0" name2="Sharpness" type="Float">
+        <value id="0" timeOfDay="0">0.15</value>
+        <value id="10" timeOfDay="0">0.3</value>
+        <value id="11" timeOfDay="0">0.3</value>
+      </param>
+      <param name1="Directional Light SsaoWeight0" name2="SsaoWeight" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Directional Light Angle1" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">-0.785389 1.570796</value>
+        <value id="10" timeOfDay="0">0 2.586578</value>
+        <value id="11" timeOfDay="0">0 2.586578</value>
+      </param>
+      <param name1="Directional Light DiffColor1" name2="DiffColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.2349 0.25245 0.27 1</value>
+        <value id="11" timeOfDay="0">0.2349 0.25245 0.27 1</value>
+      </param>
+      <param name1="Directional Light SpecColor1" name2="SpecColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.1218 0.1309 0.14 1</value>
+        <value id="11" timeOfDay="0">0.1218 0.1309 0.14 1</value>
+      </param>
+      <param name1="Directional Light Sharpness1" name2="Sharpness" type="Float">
+        <value id="0" timeOfDay="0">0.15</value>
+        <value id="10" timeOfDay="0">0.3</value>
+        <value id="11" timeOfDay="0">0.3</value>
+      </param>
+      <param name1="Directional Light SsaoWeight1" name2="SsaoWeight" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Directional Light LocalLight Angle1" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">-0.785389 1.570796</value>
+        <value id="10" timeOfDay="0">0.278816 0.942478</value>
+        <value id="11" timeOfDay="0">0.278816 0.942478</value>
+      </param>
+      <param name1="Directional Light LocalLight DiffColor1" name2="DiffColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.169312 0.181545 0.1935 1</value>
+        <value id="11" timeOfDay="0">0.169312 0.181545 0.1935 1</value>
+      </param>
+      <param name1="Directional Light LocalLight SpecColor1" name2="SpecColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.1462 0.158251 0.17 1</value>
+        <value id="11" timeOfDay="0">0.1462 0.158251 0.17 1</value>
+      </param>
+      <param name1="Directional LocalLight Light Sharpness1" name2="Sharpness" type="Float">
+        <value id="0" timeOfDay="0">0.15</value>
+        <value id="10" timeOfDay="0">0.2</value>
+        <value id="11" timeOfDay="0">0.2</value>
+      </param>
+      <param name1="Directional Light SsaoWeight2" name2="SsaoWeight" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Directional Light LocalLight Angle2" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">-0.785389 1.570796</value>
+        <value id="10" timeOfDay="0">-0.759218 0</value>
+        <value id="11" timeOfDay="0">-0.759218 0</value>
+      </param>
+      <param name1="Directional Light LocalLight DiffColor2" name2="DiffColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.13 0.13 0.13 1</value>
+        <value id="11" timeOfDay="0">0.13 0.13 0.13 1</value>
+      </param>
+      <param name1="Directional Light LocalLight SpecColor2" name2="SpecColor" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 0</value>
+        <value id="10" timeOfDay="0">0.16 0.16 0.16 1</value>
+        <value id="11" timeOfDay="0">0.16 0.16 0.16 1</value>
+      </param>
+      <param name1="Directional LocalLight Light Sharpness2" name2="Sharpness" type="Float">
+        <value id="0" timeOfDay="0">0.15</value>
+        <value id="10" timeOfDay="0">0.15</value>
+        <value id="11" timeOfDay="0">0.15</value>
+      </param>
+      <param name1="Directional Light SsaoWeight3" name2="SsaoWeight" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Directional Light Hemi Color Up" name2="Hemi Color Up" type="Float4">
+        <value id="0" timeOfDay="0">0.501961 0.501961 0.501961 0.1</value>
+        <value id="10" timeOfDay="0">0.501961 0.501961 0.501961 1</value>
+        <value id="11" timeOfDay="0">0.501961 0.501961 0.501961 1</value>
+      </param>
+      <param name1="Directional Light Hemi Color Down" name2="Hemi Color Down" type="Float4">
+        <value id="0" timeOfDay="0">0.501961 0.501961 0.501961 0.1</value>
+        <value id="10" timeOfDay="0">0.501961 0.501961 0.501961 1</value>
+        <value id="11" timeOfDay="0">0.501961 0.501961 0.501961 1</value>
+      </param>
+      <param name1="Directional LightLight1 FollowedCamera" name2="Light1 FollowedCamera" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="Directional Enable LocalLight1" name2="Enable LocalLight1" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="Directional Enable LocalLight2" name2="Enable LocalLight2" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="Directional Light  LightMask Influence" name2="LightMask Influence" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="SSAO Editor" name2="SSAO ">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="SSAO - Edit-UseNormal" name2="UseNormal" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="SSAO - Edit-UseReProj" name2="UseReProj" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="SSAO - Edit-PreventGhost" name2="PreventGhost" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="SSAO - Edit-EnableUpScale" name2="EnableUpScale" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Sample Offset" name2="Ver2 Sample Offset" type="Float">
+        <value id="0" timeOfDay="0">4</value>
+        <value id="10" timeOfDay="0">4</value>
+        <value id="11" timeOfDay="0">4</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 AO Scale" name2="Ver2 AO Scale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 AO Offset" name2="Ver2 AO Offset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Kernel Scale Base Dist" name2="Ver2 Kernel Scale Base Dist" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+        <value id="10" timeOfDay="0">4</value>
+        <value id="11" timeOfDay="0">4</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Kernel Scale Min" name2="Ver2 Kernel Scale Min" type="Float">
+        <value id="0" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="0">0.2</value>
+        <value id="11" timeOfDay="0">0.2</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Kernel Scale Max" name2="Ver2 Kernel Scale Max" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 PrevFrame Strengh" name2="PrevFrame Strengh" type="Float">
+        <value id="0" timeOfDay="0">0.7</value>
+        <value id="10" timeOfDay="0">0.7</value>
+        <value id="11" timeOfDay="0">0.7</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 DepthFadeStart" name2="DepthFadeStart" type="Float">
+        <value id="0" timeOfDay="0">3800</value>
+        <value id="10" timeOfDay="0">3800</value>
+        <value id="11" timeOfDay="0">3800</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 DepthFadeRange" name2="DepthFadeRange" type="Float">
+        <value id="0" timeOfDay="0">200</value>
+        <value id="10" timeOfDay="0">100</value>
+        <value id="11" timeOfDay="0">100</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 PrecisionDepth" name2="[Deprecated]PrecisionDepth" type="Float">
+        <value id="0" timeOfDay="0">4000</value>
+        <value id="10" timeOfDay="0">4000</value>
+        <value id="11" timeOfDay="0">4000</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 PrevFrame Depth Aware" name2="PrevFrame Depth Aware" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Depth Reject Rate" name2="PrevFrame Depth Reject Rate" type="Float">
+        <value id="0" timeOfDay="0">0.02</value>
+        <value id="10" timeOfDay="0">0.02</value>
+        <value id="11" timeOfDay="0">0.02</value>
+      </param>
+      <param name1="SSAO - Edit-Ver2 Geom Bent Offset" name2="Geom Bent Offset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+    </group>
+    <group name1="Setting Info[Yebis]" name2="Setting Info">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="GS - BG Color-Data" name2="BG Color" type="Float4">
+        <value id="0" timeOfDay="0">0.5 0.5 0.5 0.5</value>
+        <value id="10" timeOfDay="0">0.035294 0.031373 0.023529 1</value>
+        <value id="11" timeOfDay="0">0.035294 0.031373 0.023529 1</value>
+      </param>
+      <param name1="SceneSetting-  LightCollect- Auto Compute Enable" name2="Auto Compute Enable" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="SceneSetting-  LightCollect- BaseDist" name2="BaseDist" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+        <value id="10" timeOfDay="0">10</value>
+        <value id="11" timeOfDay="0">10</value>
+      </param>
+      <param name1="SceneSetting-  LightCollect-DistScaler" name2="DistScaler" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+        <value id="10" timeOfDay="0">10</value>
+        <value id="11" timeOfDay="0">10</value>
+      </param>
+      <param name1="SceneSetting-  LightCollect-DistMax" name2="DistMax" type="Float">
+        <value id="0" timeOfDay="0">130</value>
+        <value id="10" timeOfDay="0">130</value>
+        <value id="11" timeOfDay="0">130</value>
+      </param>
+      <param name1="SceneSetting-  ReflectScene Assign DynamicLight" name2="ReflectScene Assign DynamicLight" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+    </group>
+    <group name1="Tone Map[Yebis]" name2="Tone Map">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="GS Presents - ToneMap-Exposure" name2="Exposure" type="Float">
+        <value id="0" timeOfDay="0">3.5</value>
+        <value id="10" timeOfDay="0">3.8</value>
+        <value id="11" timeOfDay="0">3.8</value>
+      </param>
+      <param name1="GS Presents - ToneMap-ToneMapMode" name2="ToneMapMode" type="IntA">
+        <value id="0" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="0">8</value>
+        <value id="11" timeOfDay="0">8</value>
+      </param>
+      <param name1="GS Presents - ToneMap-Contrast" name2="FilmicContrast" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="0">0.5</value>
+        <value id="11" timeOfDay="0">0.5</value>
+      </param>
+      <param name1="GS Presents - ToneMap-ReinhardContrast" name2="ReinhardContrast" type="Float">
+        <value id="0" timeOfDay="0">1.35</value>
+        <value id="10" timeOfDay="0">1.3</value>
+        <value id="11" timeOfDay="0">1.3</value>
+      </param>
+      <param name1="GS Presents - ToneMap-ReinhardWhiteBalance" name2="ReinhardWhiteBalance" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="GS Presents - ToneMap-Enable AutoExposure" name2="Enable AutoExposure" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure LightAdapt Speed" name2="AutoExposure LightAdapt Speed" type="Float">
+        <value id="0" timeOfDay="0">0.25</value>
+        <value id="10" timeOfDay="0">0.25</value>
+        <value id="11" timeOfDay="0">0.25</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure DarkAdapt Speed" name2="AutoExposure DarkAdapt Speed" type="Float">
+        <value id="0" timeOfDay="0">0.25</value>
+        <value id="10" timeOfDay="0">0.25</value>
+        <value id="11" timeOfDay="0">0.25</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure Middle Gray" name2="AutoExposure Middle Gray" type="Float">
+        <value id="0" timeOfDay="0">-7</value>
+        <value id="10" timeOfDay="0">-7</value>
+        <value id="11" timeOfDay="0">-7</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure Center Weight" name2="AutoExposure Center Weight" type="Float">
+        <value id="0" timeOfDay="0">7</value>
+        <value id="10" timeOfDay="0">7</value>
+        <value id="11" timeOfDay="0">7</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure Adaption Max" name2="AutoExposure Adaption Max" type="Float">
+        <value id="0" timeOfDay="0">0.4</value>
+        <value id="10" timeOfDay="0">0.4</value>
+        <value id="11" timeOfDay="0">0.4</value>
+      </param>
+      <param name1="GS Presents - ToneMap-AutoExposure Adaption Min" name2="AutoExposure Adaption Min" type="Float">
+        <value id="0" timeOfDay="0">-0.5</value>
+        <value id="10" timeOfDay="0">-0.5</value>
+        <value id="11" timeOfDay="0">-0.5</value>
+      </param>
+      <param name1="GS Presents - ToneMap-FreezeAdaptionFade" name2="FreezeAdaptionFade" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="GS Presents - Chromatic Aberration Enable" name2="Enable Chromatic Aberration" type="IntB">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="GS Presents - ToneLateralDispersion[0]" name2="ToneLateralDispersion[0]" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - ToneLateralDispersion[1]" name2="ToneLateralDispersion[1]" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - Vignetting Power" name2="Power" type="Float">
+        <value id="0" timeOfDay="0">0.4</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - Vignetting Range" name2="Range" type="Float">
+        <value id="0" timeOfDay="0">1.2</value>
+        <value id="10" timeOfDay="0">0.01</value>
+        <value id="11" timeOfDay="0">0.01</value>
+      </param>
+      <param name1="GS Presents - Vignetting Shape" name2="Shape" type="Float">
+        <value id="0" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - Vignetting Fov Dependence" name2="Fov Dependence" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - ColorH" name2="ColorH" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - ColorS" name2="ColorS" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Tone Map Color Grading ColorShift" name2="ColorShift" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 0</value>
+        <value id="10" timeOfDay="0">1 1 1 0</value>
+        <value id="11" timeOfDay="0">1 1 1 0</value>
+      </param>
+      <param name1="Tone Map Color Grading ColorScale" name2="ColorScale" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 0</value>
+        <value id="10" timeOfDay="0">1 1 1 0</value>
+        <value id="11" timeOfDay="0">1 1 1 0</value>
+      </param>
+      <param name1="GS Presents - ColorV" name2="ColorV" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="GS Presents - Contrast" name2="Contrast" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="Bloom[Yebis]" name2="Bloom">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="Gs Presents【Bloom】 Enable" name2="Enable" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Gs Presents-GlareNumLevels" name2="GlareNumLevels" type="IntB">
+        <value id="0" timeOfDay="0">7</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Gs Presents-Glare Luminance" name2="Glare Luminance" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Gs Presents-Glare Threshold" name2="Glare Threshold" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="Gs Presents-GlareBloom Alpha" name2="GlareBloom Alpha" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0.1</value>
+        <value id="11" timeOfDay="0">0.1</value>
+      </param>
+      <param name1="Gs Presents-GlareBloom GaussianRadiusScale" name2="GlareBloom GaussianRadiusScale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Gs Presents-GlareBloom Sturate Ctrl" name2="GlareBloom Saturate Ctrl" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="Gs Presents-GlareBloom Smooth" name2="GlareBloom Smooth" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="11" timeOfDay="0">0.8</value>
+      </param>
+      <param name1="Gs Presents-GlareBloom FeedbackWeight" name2="GlareBloom FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="11" timeOfDay="0">0.8</value>
+      </param>
+    </group>
+    <group name1="LightShaft[Yebis]" name2="LightShaft">
+      <comments>
+        <comment />
+      </comments>
+      <param name1="GS Presents - LightShaft Enable" name2="Enable" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="GS Presents - LightShaft Angle" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">-1.570796 0</value>
+      </param>
+      <param name1="GS Presents - LightShaft EnableRefLight" name2="EnableRefLight" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="GS Presents - LightShaft LightBankId" name2="LightBankId" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - LightShaft LightId" name2="LightId" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - LightShaft HighQualitySkyMask" name2="HighQualitySkyMask" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="GS Presents - LightShaft SkyMaskMode" name2="SkyMaskMode" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - LightShaft MaskDepthThreshold" name2="MaskDepthThreshold" type="Float">
+        <value id="0" timeOfDay="0">1000</value>
+      </param>
+      <param name1="GS Presents - LightShaft SkyMaskSizeAngle" name2="SkyMaskSizeAngle" type="Float">
+        <value id="0" timeOfDay="0">1.0471976</value>
+      </param>
+      <param name1="GS Presents - LightShaft SkyMaskCenterPower" name2="SkyMaskCenterPower" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+      </param>
+      <param name1="GS Presents - Sky Multiply Color" name2="Sky Multiply Color" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 1</value>
+      </param>
+      <param name1="GS Presents - Sky Add Color" name2="Sky Add Color" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 0</value>
+      </param>
+      <param name1="GS Presents - LightShaft SkyColorSaturate" name2="SkyColorSaturate" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - LightShaft SkyColorThreshold" name2="SkyColorThreshold" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="GS Presents - ExposureInfluenceRate AddColor" name2="ExposureInfluenceRate AddColor" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="GS Presents - Parallel mode begin ang" name2="Parallel mode begin ang" type="Float">
+        <value id="0" timeOfDay="0">0.87266463</value>
+      </param>
+      <param name1="GS Presents - Parallel mode end ang" name2="Parallel mode end ang" type="Float">
+        <value id="0" timeOfDay="0">1.3962634</value>
+      </param>
+      <param name1="GS Presents - Fade out begin ang" name2="Fade out begin ang" type="Float">
+        <value id="0" timeOfDay="0">1.5707964</value>
+      </param>
+      <param name1="GS Presents - Fade out end ang" name2="Fade out end ang" type="Float">
+        <value id="0" timeOfDay="0">2.0943952</value>
+      </param>
+      <param name1="GS Presents - ShaftBlurRange" name2="ShaftBlurRange" type="Float">
+        <value id="0" timeOfDay="0">1.5</value>
+      </param>
+      <param name1="GS Presents - LightShaft ShaftBlurRange for Parallel" name2="ShaftBlurRange for Parallel" type="Float">
+        <value id="0" timeOfDay="0">0.2</value>
+      </param>
+      <param name1="GS Presents - LightShaft ShaftBlurFallOff" name2="ShaftBlurFallOff" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="GS Presents - LightShaft ShaftBlurCount" name2="ShaftBlurCount" type="IntB">
+        <value id="0" timeOfDay="0">2</value>
+      </param>
+    </group>
+    <group name1="Anti-Alias-Editor" name2="Anti-Alias">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="Yebis-Anti-Alias Enable" name2="Enable" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="AntiAlias - AntiAliasType" name2="AntiAliasType" type="IntA">
+        <value id="0" timeOfDay="0">4</value>
+        <value id="10" timeOfDay="0">5</value>
+        <value id="11" timeOfDay="0">5</value>
+      </param>
+      <param name1="AntiAlias - fFxaaAlpha" name2="FxaaAlpha" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="AntiAlias - FxaaReduceMin" name2="FxaaReduceMin" type="Float">
+        <value id="0" timeOfDay="0">0.0078125</value>
+        <value id="10" timeOfDay="0">0.0078125</value>
+        <value id="11" timeOfDay="0">0.0078125</value>
+      </param>
+      <param name1="AntiAlias - FxaaReduceMul" name2="FxaaReduceMul" type="Float">
+        <value id="0" timeOfDay="0">0.125</value>
+        <value id="10" timeOfDay="0">0.125</value>
+        <value id="11" timeOfDay="0">0.125</value>
+      </param>
+      <param name1="AntiAlias - FxaaSpanMax" name2="FxaaSpanMax" type="Float">
+        <value id="0" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="0">8</value>
+        <value id="11" timeOfDay="0">8</value>
+      </param>
+      <param name1="AntiAlias - DlaaThreshold" name2="DlaaThreshold" type="Float">
+        <value id="0" timeOfDay="0">0.1</value>
+        <value id="10" timeOfDay="0">0.1</value>
+        <value id="11" timeOfDay="0">0.1</value>
+      </param>
+      <param name1="AntiAlias - DlaaRamda" name2="DlaaLambda" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">1.5999999</value>
+        <value id="11" timeOfDay="0">1.5999999</value>
+      </param>
+      <param name1="AntiAlias - DlaaEpsilon" name2="DlaaEpsilon" type="Float">
+        <value id="0" timeOfDay="0">0.25</value>
+        <value id="10" timeOfDay="0">0.25</value>
+        <value id="11" timeOfDay="0">0.25</value>
+      </param>
+      <param name1="AntiAlias - FeedbackWeight" name2="FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.75</value>
+        <value id="10" timeOfDay="0">0.85</value>
+        <value id="11" timeOfDay="0">0.85</value>
+      </param>
+      <param name1="AntiAlias - JitterCount" name2="JitterCount" type="IntB">
+        <value id="0" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="0">8</value>
+        <value id="11" timeOfDay="0">8</value>
+      </param>
+      <param name1="AntiAlias - EnableDitherSwitch" name2="EnableDitherSwitch" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="AntiAlias - EnableMotionVectorDilation" name2="EnableMotionVectorDilation" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="AntiAlias - SharpenIntensity" name2="SharpenIntensity" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0.15</value>
+        <value id="11" timeOfDay="0">0.15</value>
+      </param>
+      <param name1="AntiAlias - SharpenRangeMin" name2="SharpenRangeMin" type="Float">
+        <value id="0" timeOfDay="0">-2</value>
+        <value id="10" timeOfDay="0">-2</value>
+        <value id="11" timeOfDay="0">-2</value>
+      </param>
+      <param name1="AntiAlias - SharpenRangeMax" name2="SharpenRangeMax" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="AntiAlias - SubpixelFeedbackFactor" name2="SubpixelFeedbackFactor" type="Float">
+        <value id="0" timeOfDay="0">0.9</value>
+        <value id="10" timeOfDay="0">0.9</value>
+        <value id="11" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="AntiAlias - CBFeedbackWeightSampled" name2="CBFeedbackWeightSampled" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="11" timeOfDay="0">0.8</value>
+      </param>
+      <param name1="AntiAlias - CBFeedbackWeightFiltered" name2="CBFeedbackWeightFiltered" type="Float">
+        <value id="0" timeOfDay="0">0.9</value>
+        <value id="10" timeOfDay="0">0.9</value>
+        <value id="11" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="AntiAlias - EnableStencilMask" name2="EnableStencilMask" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="AntiAlias - RejectedPixelBlurIntensity" name2="RejectedPixelBlurIntensity" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="0">0.5</value>
+        <value id="11" timeOfDay="0">0.5</value>
+      </param>
+      <param name1="AntiAlias - FeedbackWeightScale(None)" name2="FBWeightScale(None)" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0.9</value>
+        <value id="11" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="AntiAlias - FeedbackWeightScale(0)" name2="FBWeightScale(0)" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0.85</value>
+        <value id="11" timeOfDay="0">0.85</value>
+      </param>
+      <param name1="AntiAlias - FeedbackWeightScale(1)" name2="FBWeightScale(1)" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0.85</value>
+        <value id="11" timeOfDay="0">0.85</value>
+      </param>
+      <param name1="AntiAlias - FeedbackWeightScale(2)" name2="FBWeightScale(2)" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="11" timeOfDay="0">0.8</value>
+      </param>
+      <param name1="AntiAlias - FBWeightCancelByDepth(0)" name2="FBWeightCancelByDepth(0)" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="AntiAlias - FBWeightCancelByDepth(1)" name2="FBWeightCancelByDepth(1)" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0.2</value>
+        <value id="11" timeOfDay="0">0.2</value>
+      </param>
+      <param name1="AntiAlias - FBWeightCancelByDepth(2)" name2="FBWeightCancelByDepth(2)" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0.4</value>
+        <value id="11" timeOfDay="0">0.4</value>
+      </param>
+      <param name1="AntiAlias - FBWeightCancelByDepth(3)" name2="FBWeightCancelByDepth(3)" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="11" timeOfDay="0">0.8</value>
+      </param>
+      <param name1="AntiAlias - FBWeightBorderDepth(0)" name2="FBWeightBorderDepth(0)" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+        <value id="10" timeOfDay="0">60</value>
+        <value id="11" timeOfDay="0">60</value>
+      </param>
+      <param name1="AntiAlias - FBWeightBorderDepth(1)" name2="FBWeightBorderDepth(1)" type="Float">
+        <value id="0" timeOfDay="0">20</value>
+        <value id="10" timeOfDay="0">250</value>
+        <value id="11" timeOfDay="0">250</value>
+      </param>
+      <param name1="AntiAlias - FBWeightBorderDepth(2)" name2="FBWeightBorderDepth(2)" type="Float">
+        <value id="0" timeOfDay="0">40</value>
+        <value id="10" timeOfDay="0">800</value>
+        <value id="11" timeOfDay="0">800</value>
+      </param>
+    </group>
+    <group name1="MotionBlur-Editor[Yebis]" name2="MotionBlur">
+      <comments>
+        <comment />
+      </comments>
+      <param name1="GSPresents-MotionBlur-Enable" name2="Enable" type="BoolA">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Motion Blur Intensity" name2="Motion Blur Intensity" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Blur Max Length" name2="Blur Max Length" type="Float">
+        <value id="0" timeOfDay="0">0.02</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Shutter Speed" name2="Shutter Speed" type="Float">
+        <value id="0" timeOfDay="0">100</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Sample Count" name2="Sample Count" type="IntB">
+        <value id="0" timeOfDay="0">8</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Blur ReccurenceCount" name2="Blur RecurrenceCount" type="IntB">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Bidirectional Blur" name2="Bidirectional Blur" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+      </param>
+      <param name1="MotionBlur[GS Presents] Blur Cutoff threshold in Pixel" name2="Blur Cutoff threshold in Pixel" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+      </param>
+      <param name1="GSPresents-MotionBlur-bInnerTime" name2="Use Inner Simulation Time" type="BoolA">
+        <value id="0" timeOfDay="0">True</value>
+      </param>
+      <param name1="GSPresents-MotionBlur-Enable Average Inner Simulation Time" name2="Enable Average Inner Simulation Time" type="BoolA">
+        <value id="0" timeOfDay="0">True</value>
+      </param>
+      <param name1="GSPresents-MotionBlur-Enable Fixed Inner Simulation Time" name2="Enable Fixed Inner Simulation Time" type="BoolA">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+    </group>
+    <group name1="FurBlur-Editor" name2="FurBlur">
+      <comments>
+        <comment />
+        <comment />
+      </comments>
+      <param name1="FurBlur-Enable" name2="Enable" type="BoolA">
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="FurBlur Fur Blur Intensity" name2="Fur Blur Intensity" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="FurBlur Blur Max Length" name2="Blur Max Length" type="Float">
+        <value id="10" timeOfDay="0">0.1</value>
+        <value id="11" timeOfDay="0">0.1</value>
+      </param>
+      <param name1="FurBlur Sample Count" name2="Sample Count" type="IntB">
+        <value id="10" timeOfDay="0">3</value>
+        <value id="11" timeOfDay="0">3</value>
+      </param>
+      <param name1="FurBlur Blur RecurrenceCount" name2="Blur RecurrenceCount" type="IntB">
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+    </group>
+    <group name1="FeedBackBlur-Editor[Yebis]" name2="FeedBackBlur">
+      <comments>
+        <comment />
+      </comments>
+      <param name1="Yebis-FeedBackBlur-Enable" name2="Enable" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Yebis-FeedbackWeight" name2="FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Yebis-Feedback UnitTimeInSeconds" name2="FeedbackUnitTimeInSeconds" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Object-FeedbackBlurRate" name2="FeedbackRate" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+      </param>
+      <param name1="Object-FeedbackBlurFallOff" name2="FeedbackBlurFallOff" type="Float">
+        <value id="0" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="Object-FeedbackBlurPower" name2="FeedbackBlurPower" type="Float">
+        <value id="0" timeOfDay="0">4.5</value>
+      </param>
+    </group>
+    <group name1="ColorGrading[Yebis]" name2="ColorGrading">
+      <comments>
+        <comment />
+      </comments>
+      <param name1="Yebis-ColorGrading-Enable" name2="Enable" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Yebis-LutSourceId" name2="LutSourceId" type="IntA">
+        <value id="0" timeOfDay="0">-1</value>
+      </param>
+      <param name1="ColorGrading FadeTime" name2="FadeTime" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="ShadowParam ParamEditor" name2="ShadowParam">
+      <comments>
+        <comment />
+        <comment />
+        <comment />
+      </comments>
+      <param name1="hadowParam - Shadow: Angle0" name2="Angle" type="Float2">
+        <value id="0" timeOfDay="0">0 0</value>
+        <value id="10" timeOfDay="0">0 0</value>
+        <value id="11" timeOfDay="0">0 0</value>
+      </param>
+      <param name1="shadowParam -   Shadow:  Shadow Light Id" name2="Shadow  Light  Id" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">10</value>
+        <value id="11" timeOfDay="0">10</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Near" name2="Near" type="Float">
+        <value id="0" timeOfDay="0">0.1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Cascade Dist 0-&gt;1" name2="Cascade Dist 0-&gt;1" type="Float">
+        <value id="0" timeOfDay="0">32</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Cascade Dist 1-&gt;2" name2="Cascade Dist 1-&gt;2" type="Float">
+        <value id="0" timeOfDay="0">160</value>
+        <value id="10" timeOfDay="0">4.5</value>
+        <value id="11" timeOfDay="0">4.5</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Cascade Dist 2-&gt;3" name2="Cascade Dist 2-&gt;3" type="Float">
+        <value id="0" timeOfDay="0">900</value>
+        <value id="10" timeOfDay="0">70</value>
+        <value id="11" timeOfDay="0">70</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Far Fade Start" name2="Far Fade Start" type="Float">
+        <value id="0" timeOfDay="0">4000</value>
+        <value id="10" timeOfDay="0">100</value>
+        <value id="11" timeOfDay="0">100</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Far Fade Dist" name2="Far Fade Dist" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+        <value id="10" timeOfDay="0">300</value>
+        <value id="11" timeOfDay="0">300</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Cascade Fade Range Scale" name2="Cascade Fade Range Scale" type="Float">
+        <value id="0" timeOfDay="0">0.05</value>
+        <value id="10" timeOfDay="0">0.05</value>
+        <value id="11" timeOfDay="0">0.05</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Shadow Map FilterMode" name2="Shadow Map FilterMode" type="IntA">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Depth Offset" name2="Depth Offset" type="Float">
+        <value id="0" timeOfDay="0">-0.001</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam - Volume Depth" name2="Volume Depth" type="Float">
+        <value id="0" timeOfDay="0">4000</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="ShadowParam - Depth Bias" name2="Depth Bias" type="IntA">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="ShadowParam - Slope Scaled Depth Bias" name2="Slope Scaled Depth Bias" type="Float">
+        <value id="0" timeOfDay="0">3</value>
+        <value id="10" timeOfDay="0">6</value>
+        <value id="11" timeOfDay="0">6</value>
+      </param>
+      <param name1="Shadow Model Cull Flip" name2="Shadow Model Cull Flip" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="ShadowParam - AlignTexel" name2="AlignTexel" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="ShadowParam - DepthRate" name2="DepthRate" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="0">0.9</value>
+        <value id="11" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="ShadowParam - DepthScale" name2="DepthScale" type="Float">
+        <value id="0" timeOfDay="0">15</value>
+        <value id="10" timeOfDay="0">20</value>
+        <value id="11" timeOfDay="0">20</value>
+      </param>
+      <param name1="ShadowParam - KernelScale" name2="KernelScale" type="Float">
+        <value id="0" timeOfDay="0">1.5</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="ShadowParam - DepthOffsetScale" name2="DepthOffsetScale" type="Float">
+        <value id="0" timeOfDay="0">-0.085</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam - Blur Count" name2="Blur Count" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="ShadowParam - Blur Radius" name2="Blur Radius" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">5</value>
+        <value id="11" timeOfDay="0">5</value>
+      </param>
+      <param name1="ShadowParam - TempAA Auto Jitter" name2="TempAA Auto Jitter" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="ShadowParam Cascade Count" name2="Cascade Count" type="IntB">
+        <value id="0" timeOfDay="0">4</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam - Shadow: Shadow Map Resolution" name2="Shadow Map Resolution" type="IntA">
+        <value id="0" timeOfDay="0">-1</value>
+        <value id="10" timeOfDay="0">-1</value>
+        <value id="11" timeOfDay="0">-1</value>
+      </param>
+      <param name1="ShadowParam Cascade0 Resolution" name2="Cascade0 Resolution" type="IntA">
+        <value id="0" timeOfDay="0">2</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam Cascade1 Resolution" name2="Cascade1 Resolution" type="IntA">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam Cascade2 Resolution" name2="Cascade2 Resolution" type="IntA">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam Cascade3 Resolution" name2="Cascade3 Resolution" type="IntA">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="ShadowParam CompartmentShadow Resolution" name2="CompartmentShadow Resolution" type="IntA">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+    </group>
+    <group name1="AboveShadow ParamEditor" name2="AboveShadow">
+      <comments />
+    </group>
+    <group name1="WaterInteraction-Editor" name2="WaterInteraction Simulation">
+      <comments />
+      <param name1="WaterInteraction-Enable" name2="Enable" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="WaterInteraction - ScreenSpace Wave Speed" name2="Wave Speed" type="Float">
+        <value id="0" timeOfDay="0">1.5</value>
+      </param>
+      <param name1="WaterInteraction - ScreenSpace Wave Attenuation" name2="Wave Attenuation" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="WaterInteraction - ScreenSpace TexelSize" name2="Texel Size" type="Float">
+        <value id="0" timeOfDay="0">0.1</value>
+      </param>
+      <param name1="WaterInteraction - ScreenSpace Max Resolution" name2="Texture Resolution" type="IntB">
+        <value id="0" timeOfDay="0">512</value>
+      </param>
+    </group>
+    <group name1="AOFields - Editor" name2="AOFields">
+      <comments />
+    </group>
+    <group name1="AOFields Model - Editor" name2="AOFields Model">
+      <comments />
+    </group>
+    <group name1="SeaWave:Editor" name2="SeaWave ">
+      <comments />
+    </group>
+    <group name1="Glow Filter-Editor" name2="Glow Filter ">
+      <comments>
+        <comment />
+        <comment />
+      </comments>
+      <param name1="Glow Filter-Glow Enable" name2="Enable" type="IntA">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="Glow Filter - Glow NumLevels" name2="Glow NumLevels" type="IntB">
+        <value id="10" timeOfDay="0">7</value>
+        <value id="11" timeOfDay="0">7</value>
+      </param>
+      <param name1="Glow Filter - Blur Smoothness" name2="Blur Smoothness" type="Float">
+        <value id="10" timeOfDay="0">1.2</value>
+        <value id="11" timeOfDay="0">1.2</value>
+      </param>
+      <param name1="New Glow Filter-Glow - FinalColorScale" name2="Glow Final ColorScale" type="Float">
+        <value id="10" timeOfDay="0">5</value>
+        <value id="11" timeOfDay="0">5</value>
+      </param>
+      <param name1="Glow Filter-Glow - BlurSampleScale" name2="BlurSampleScale" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="Glow Filter-Glow - Blur RgbScale" name2="Blur RgbScale" type="Float">
+        <value id="10" timeOfDay="0">1.5</value>
+        <value id="11" timeOfDay="0">1.5</value>
+      </param>
+      <param name1="Glow Filter-Glow - Blur AlphaScale" name2="Blur AlphaScale" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="[GS]Lens Simulation" name2="Lens Simulation">
+      <comments>
+        <comment />
+        <comment />
+      </comments>
+      <param name1="[GS]Lens Simulation Param  Enable" name2="Enable" type="IntB">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param NearEnd" name2="NearEnd" type="Float">
+        <value id="10" timeOfDay="0">3</value>
+        <value id="11" timeOfDay="0">3</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param NearStart" name2="NearStart" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param FarStart" name2="FarStart" type="Float">
+        <value id="10" timeOfDay="0">100</value>
+        <value id="11" timeOfDay="0">100</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param FarEnd" name2="FarEnd" type="Float">
+        <value id="10" timeOfDay="0">200</value>
+        <value id="11" timeOfDay="0">200</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param FocusDist" name2="FocusDist" type="Float">
+        <value id="10" timeOfDay="0">100</value>
+        <value id="11" timeOfDay="0">100</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param UseCameraFocus" name2="UseCameraFocus" type="IntB">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param SkyMaskRate" name2="SkyMaskRate" type="Float">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param Lens F" name2="Lens F" type="Float">
+        <value id="10" timeOfDay="0">5.6</value>
+        <value id="11" timeOfDay="0">5.6</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param Av (絞り値)" name2="Av (絞り値)" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param FilmSize(mm)" name2="FilmSize(mm)" type="Float">
+        <value id="10" timeOfDay="0">0.024</value>
+        <value id="11" timeOfDay="0">0.024</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param LinearCoCFactorNear" name2="LinearCoCFactorNear" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param LinearCoCFactorFar" name2="LinearCoCFactorFar" type="Float">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param ApertureShape" name2="ApertureShape" type="IntA">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param DiaphragmRotate" name2="DiaphragmRotate" type="Float">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param CoCBlurCountPreMask" name2="CoCBlurCountPreMask" type="IntB">
+        <value id="10" timeOfDay="0">0</value>
+        <value id="11" timeOfDay="0">0</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param CoCBlurCount(1)" name2="CoCBlurCount(1)" type="IntB">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param CoCBlurCount(2)" name2="CoCBlurCount(2)" type="IntB">
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="Lens Simulation Param MaxBlurLevel" name2="MaxBlurLevel" type="IntB">
+        <value id="10" timeOfDay="0">2</value>
+        <value id="11" timeOfDay="0">2</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param CoCMode" name2="CoCMode" type="IntA">
+        <value id="10" timeOfDay="0">1</value>
+        <value id="11" timeOfDay="0">1</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param NearCoCMode Linear" name2="NearCoCMode Linear" type="BoolB">
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param FarCoCMode Linear" name2="FarCoCMode Linear" type="BoolB">
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param HiResolutionBlur" name2="HiResolutionBlur" type="BoolB">
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param NearFarSeparatedBlur" name2="NearFarSeparatedBlur" type="BoolB">
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param PreTempAA" name2="PreTempAA" type="BoolB">
+        <value id="10" timeOfDay="0">True</value>
+        <value id="11" timeOfDay="0">True</value>
+      </param>
+      <param name1="[GS]Lens Simulation Param TemporalFeedbackWeight" name2="TemporalFeedbackWeight" type="Float">
+        <value id="10" timeOfDay="0">0.9</value>
+        <value id="11" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="Lens Simulation Param AffectedByTransparentDepth" name2="AffectedByTransparentDepth" type="BoolB">
+        <value id="10" timeOfDay="0">False</value>
+        <value id="11" timeOfDay="0">False</value>
+      </param>
+    </group>
+    <group name1="Cloud Shadow:Editor" name2="Cloud Shadow ">
+      <comments />
+    </group>
+    <group name1="Wet ParamEditor" name2="Wet">
+      <comments />
+      <param name1="Wet-OverrideAlbedo" name2="OverrideAlbedo" type="Float4">
+        <value id="0" timeOfDay="0">0 0 0 1</value>
+      </param>
+      <param name1="Wet-OverrideShininess" name2="OverrideShininess" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Wet-AlbedoRate" name2="AlbedoRate" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="Wet-ShininessRate" name2="ShininessRate" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+    </group>
+    <group name1="SSR ParamEditor" name2="SSR">
+      <comments />
+      <param name1="SSR Enable" name2="Enable" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="SSR TraverseMode" name2="TraverseMode" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="SSR Shininess Reject Threshold" name2="Shininess Reject Threshold" type="Float">
+        <value id="0" timeOfDay="0">0.73</value>
+      </param>
+      <param name1="SSR Depth Reject Threshold" name2="Depth Reject Threshold" type="Float">
+        <value id="0" timeOfDay="0">1000</value>
+      </param>
+      <param name1="SSR Fade To Viewer Start" name2="Fade To Viewer Start" type="Float">
+        <value id="0" timeOfDay="0">-0.6</value>
+      </param>
+      <param name1="SSR Fresnel Reject Threshold" name2="Fresnel Reject Threshold" type="Float">
+        <value id="0" timeOfDay="0">0.3</value>
+      </param>
+      <param name1="SSR Ray Trace Step Scale Min" name2="Ray Trace Step Scale Min" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+      </param>
+      <param name1="SSR Ray Trace Step Scale Max" name2="Ray Trace Step Scale Max" type="Float">
+        <value id="0" timeOfDay="0">2</value>
+      </param>
+      <param name1="SSR Display Mip Scale" name2="Display Mip Scale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="SSR Display Mip Offset" name2="Display Mip Offset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="SSR Depth Fade Range" name2="Depth Fade Range" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+      </param>
+      <param name1="SSR Geom Crack Detect Factor" name2="Geom Crack Detect Factor" type="Float">
+        <value id="0" timeOfDay="0">1.02</value>
+      </param>
+      <param name1="SSR Tex Blur Sigma" name2="Tex Blur Sigma" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="SSR Tex Blur Sigma for Mip" name2="Tex Blur Sigma for Mip" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="VolumetricFog ParamEditor" name2="VolumetricFog">
+      <comments />
+      <param name1="VolumetricFog Enable" name2="Enable" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="16">False</value>
+        <value id="20" timeOfDay="0">False</value>
+        <value id="20" timeOfDay="16">False</value>
+        <value id="30" timeOfDay="0">False</value>
+        <value id="30" timeOfDay="16">False</value>
+        <value id="40" timeOfDay="0">False</value>
+        <value id="40" timeOfDay="16">False</value>
+        <value id="50" timeOfDay="0">False</value>
+        <value id="50" timeOfDay="16">False</value>
+        <value id="60" timeOfDay="0">False</value>
+        <value id="60" timeOfDay="16">False</value>
+        <value id="70" timeOfDay="0">False</value>
+        <value id="70" timeOfDay="16">False</value>
+      </param>
+      <param name1="VolumetricFog VolumeWidth" name2="VolumeWidth" type="IntB">
+        <value id="0" timeOfDay="0">160</value>
+        <value id="10" timeOfDay="0">96</value>
+        <value id="10" timeOfDay="16">160</value>
+        <value id="20" timeOfDay="0">96</value>
+        <value id="20" timeOfDay="16">96</value>
+        <value id="30" timeOfDay="0">160</value>
+        <value id="30" timeOfDay="16">96</value>
+        <value id="40" timeOfDay="0">160</value>
+        <value id="40" timeOfDay="16">96</value>
+        <value id="50" timeOfDay="0">96</value>
+        <value id="50" timeOfDay="16">160</value>
+        <value id="60" timeOfDay="0">96</value>
+        <value id="60" timeOfDay="16">160</value>
+        <value id="70" timeOfDay="0">96</value>
+        <value id="70" timeOfDay="16">160</value>
+      </param>
+      <param name1="VolumetricFog VolumeDepth" name2="VolumeDepth" type="IntB">
+        <value id="0" timeOfDay="0">32</value>
+        <value id="10" timeOfDay="0">24</value>
+        <value id="10" timeOfDay="16">32</value>
+        <value id="20" timeOfDay="0">24</value>
+        <value id="20" timeOfDay="16">24</value>
+        <value id="30" timeOfDay="0">32</value>
+        <value id="30" timeOfDay="16">24</value>
+        <value id="40" timeOfDay="0">32</value>
+        <value id="40" timeOfDay="16">24</value>
+        <value id="50" timeOfDay="0">24</value>
+        <value id="50" timeOfDay="16">32</value>
+        <value id="60" timeOfDay="0">24</value>
+        <value id="60" timeOfDay="16">32</value>
+        <value id="70" timeOfDay="0">24</value>
+        <value id="70" timeOfDay="16">32</value>
+      </param>
+      <param name1="VolumetricFog GameScale" name2="GameScale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="16">1</value>
+        <value id="20" timeOfDay="0">1</value>
+        <value id="20" timeOfDay="16">0.1</value>
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">1</value>
+        <value id="50" timeOfDay="16">1</value>
+        <value id="60" timeOfDay="0">1</value>
+        <value id="60" timeOfDay="16">1</value>
+        <value id="70" timeOfDay="0">1</value>
+        <value id="70" timeOfDay="16">1</value>
+      </param>
+      <param name1="VolumetricFog NearDepth" name2="NearDepth" type="Float">
+        <value id="0" timeOfDay="0">0.1</value>
+        <value id="10" timeOfDay="0">0.1</value>
+        <value id="10" timeOfDay="16">0.1</value>
+        <value id="20" timeOfDay="0">0.1</value>
+        <value id="20" timeOfDay="16">0.1</value>
+        <value id="30" timeOfDay="0">0.1</value>
+        <value id="30" timeOfDay="16">0.1</value>
+        <value id="40" timeOfDay="0">0.1</value>
+        <value id="40" timeOfDay="16">0.1</value>
+        <value id="50" timeOfDay="0">0.1</value>
+        <value id="50" timeOfDay="16">0.1</value>
+        <value id="60" timeOfDay="0">0.1</value>
+        <value id="60" timeOfDay="16">0.1</value>
+        <value id="70" timeOfDay="0">0.1</value>
+        <value id="70" timeOfDay="16">0.1</value>
+      </param>
+      <param name1="VolumetricFog FarDepth" name2="FarDepth" type="Float">
+        <value id="0" timeOfDay="0">200</value>
+        <value id="10" timeOfDay="0">200</value>
+        <value id="10" timeOfDay="16">200</value>
+        <value id="20" timeOfDay="0">200</value>
+        <value id="20" timeOfDay="16">250</value>
+        <value id="30" timeOfDay="0">200</value>
+        <value id="30" timeOfDay="16">200</value>
+        <value id="40" timeOfDay="0">200</value>
+        <value id="40" timeOfDay="16">300</value>
+        <value id="50" timeOfDay="0">200</value>
+        <value id="50" timeOfDay="16">200</value>
+        <value id="60" timeOfDay="0">200</value>
+        <value id="60" timeOfDay="16">200</value>
+        <value id="70" timeOfDay="0">200</value>
+        <value id="70" timeOfDay="16">200</value>
+      </param>
+      <param name1="VolumetricFog NearOffset" name2="NearOffset" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="16">1</value>
+        <value id="20" timeOfDay="0">1</value>
+        <value id="20" timeOfDay="16">1</value>
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">1</value>
+        <value id="50" timeOfDay="16">1</value>
+        <value id="60" timeOfDay="0">1</value>
+        <value id="60" timeOfDay="16">1</value>
+        <value id="70" timeOfDay="0">1</value>
+        <value id="70" timeOfDay="16">1</value>
+      </param>
+      <param name1="VolumetricFog FogEndDepth" name2="FogEndDepth" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="4">0</value>
+        <value id="10" timeOfDay="11.5">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="4">0</value>
+        <value id="20" timeOfDay="11.5">0</value>
+        <value id="20" timeOfDay="16">300</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="4">0</value>
+        <value id="50" timeOfDay="11.5">300</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="4">0</value>
+        <value id="60" timeOfDay="11.5">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="4">0</value>
+        <value id="70" timeOfDay="11.5">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog DrawTiming" name2="DrawTiming" type="IntA">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">1</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog EnableAnalyticalFog" name2="EnableAnalyticalFog" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="16">True</value>
+        <value id="20" timeOfDay="0">True</value>
+        <value id="20" timeOfDay="16">False</value>
+        <value id="30" timeOfDay="0">True</value>
+        <value id="30" timeOfDay="16">True</value>
+        <value id="40" timeOfDay="0">True</value>
+        <value id="40" timeOfDay="16">False</value>
+        <value id="50" timeOfDay="0">True</value>
+        <value id="50" timeOfDay="16">True</value>
+        <value id="60" timeOfDay="0">True</value>
+        <value id="60" timeOfDay="16">True</value>
+        <value id="70" timeOfDay="0">True</value>
+        <value id="70" timeOfDay="16">True</value>
+      </param>
+      <param name1="VolumetricFog VolumeSliceSampleOffset" name2="VolumeSliceSampleOffset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog CullingBySceneDepth" name2="[Deprecated]CullingBySceneDepth" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="16">False</value>
+        <value id="20" timeOfDay="0">False</value>
+        <value id="20" timeOfDay="16">False</value>
+        <value id="30" timeOfDay="0">False</value>
+        <value id="30" timeOfDay="16">False</value>
+        <value id="40" timeOfDay="0">False</value>
+        <value id="40" timeOfDay="16">False</value>
+        <value id="50" timeOfDay="0">False</value>
+        <value id="50" timeOfDay="16">False</value>
+        <value id="60" timeOfDay="0">False</value>
+        <value id="60" timeOfDay="16">False</value>
+        <value id="70" timeOfDay="0">False</value>
+        <value id="70" timeOfDay="16">False</value>
+      </param>
+      <param name1="VolumetricFog CancelInScatteringRateFromSSR" name2="CancelInScatteringRateFromSSR" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog Global FixedDensity" name2="FixedDensity" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">1E-05</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">1E-05</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">1E-05</value>
+        <value id="50" timeOfDay="0">1E-05</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="11.5">0</value>
+        <value id="60" timeOfDay="16">1E-05</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">1E-05</value>
+        <value id="0" timeOfDay="0">1E-05</value>
+      </param>
+      <param name1="VolumetricFog Global ScatteringG" name2="ScatteringG" type="Float">
+        <value id="0" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="16">0.2</value>
+        <value id="20" timeOfDay="0">0.2</value>
+        <value id="20" timeOfDay="16">0.2</value>
+        <value id="30" timeOfDay="0">0.2</value>
+        <value id="30" timeOfDay="16">0.2</value>
+        <value id="40" timeOfDay="0">0.2</value>
+        <value id="40" timeOfDay="16">0.2</value>
+        <value id="50" timeOfDay="0">0.2</value>
+        <value id="50" timeOfDay="16">0.2</value>
+        <value id="60" timeOfDay="0">0.2</value>
+        <value id="60" timeOfDay="16">0.2</value>
+        <value id="70" timeOfDay="0">0.2</value>
+        <value id="70" timeOfDay="16">0.2</value>
+      </param>
+      <param name1="VolumetricFog Global LocalLightScale" name2="LocalLightScale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="16">1</value>
+        <value id="20" timeOfDay="0">1</value>
+        <value id="20" timeOfDay="16">1</value>
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">1</value>
+        <value id="50" timeOfDay="16">1</value>
+        <value id="60" timeOfDay="0">1</value>
+        <value id="60" timeOfDay="16">1</value>
+        <value id="70" timeOfDay="0">1</value>
+        <value id="70" timeOfDay="16">1</value>
+      </param>
+      <param name1="VolumetricFog Global LocalLightDistScale" name2="LocalLightDistScale" type="Float">
+        <value id="0" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="0">0.5</value>
+        <value id="10" timeOfDay="16">0.5</value>
+        <value id="20" timeOfDay="0">0.5</value>
+        <value id="20" timeOfDay="16">0.5</value>
+        <value id="30" timeOfDay="0">0.5</value>
+        <value id="30" timeOfDay="16">0.5</value>
+        <value id="40" timeOfDay="0">0.5</value>
+        <value id="40" timeOfDay="16">0.5</value>
+        <value id="50" timeOfDay="0">0.5</value>
+        <value id="50" timeOfDay="16">0.5</value>
+        <value id="60" timeOfDay="0">0.5</value>
+        <value id="60" timeOfDay="16">0.5</value>
+        <value id="70" timeOfDay="0">0.5</value>
+        <value id="70" timeOfDay="16">0.5</value>
+      </param>
+      <param name1="VolumetricFog Global HeightFogDistribution" name2="HeightFogDistribution" type="Float">
+        <value id="0" timeOfDay="0">0.015</value>
+        <value id="10" timeOfDay="0">0.005</value>
+        <value id="10" timeOfDay="16">0.015</value>
+        <value id="20" timeOfDay="0">0.005</value>
+        <value id="20" timeOfDay="16">0.06</value>
+        <value id="30" timeOfDay="0">0.015</value>
+        <value id="30" timeOfDay="16">0.005</value>
+        <value id="40" timeOfDay="0">0.015</value>
+        <value id="40" timeOfDay="16">0.06</value>
+        <value id="50" timeOfDay="0">0.005</value>
+        <value id="50" timeOfDay="16">0.015</value>
+        <value id="60" timeOfDay="0">0.005</value>
+        <value id="60" timeOfDay="16">0.015</value>
+        <value id="70" timeOfDay="0">0.005</value>
+        <value id="70" timeOfDay="16">0.015</value>
+      </param>
+      <param name1="VolumetricFog Global HeightFogOffset" name2="HeightFogOffset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog Global HeightFogReferenceOffset" name2="HeightFogReferenceOffset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">-300</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">-300</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">-300</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">-300</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">-300</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">-300</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog Global HeightFogReferenceModeRate" name2="HeightFogReferenceModeRate" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="16">1</value>
+        <value id="20" timeOfDay="0">1</value>
+        <value id="20" timeOfDay="16">1</value>
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">1</value>
+        <value id="50" timeOfDay="16">1</value>
+        <value id="60" timeOfDay="0">1</value>
+        <value id="60" timeOfDay="16">1</value>
+        <value id="70" timeOfDay="0">1</value>
+        <value id="70" timeOfDay="16">1</value>
+      </param>
+      <param name1="VolumetricFog Global HeightFogDensity Scale" name2="HeightFogDensity Scale" type="Float">
+        <value id="0" timeOfDay="0">0.02</value>
+        <value id="10" timeOfDay="0">0.002</value>
+        <value id="10" timeOfDay="16">0.02</value>
+        <value id="20" timeOfDay="0">0.002</value>
+        <value id="20" timeOfDay="16">0.004</value>
+        <value id="30" timeOfDay="0">0.02</value>
+        <value id="30" timeOfDay="16">0.002</value>
+        <value id="40" timeOfDay="0">0.02</value>
+        <value id="40" timeOfDay="16">0.004</value>
+        <value id="50" timeOfDay="0">0.002</value>
+        <value id="50" timeOfDay="16">0.02</value>
+        <value id="60" timeOfDay="0">0.002</value>
+        <value id="60" timeOfDay="16">0.02</value>
+        <value id="70" timeOfDay="0">0.002</value>
+        <value id="70" timeOfDay="16">0.02</value>
+      </param>
+      <param name1="VolumetricFog Global AbsorptionScale" name2="AbsorptionScale" type="Float3">
+        <value id="0" timeOfDay="0">0 0 0</value>
+        <value id="10" timeOfDay="0">0 0 0</value>
+        <value id="10" timeOfDay="16">0 0 0</value>
+        <value id="20" timeOfDay="0">0 0 0</value>
+        <value id="20" timeOfDay="16">0 0 0</value>
+        <value id="30" timeOfDay="0">0 0 0</value>
+        <value id="30" timeOfDay="16">0 0 0</value>
+        <value id="40" timeOfDay="0">0 0 0</value>
+        <value id="40" timeOfDay="16">0 0 0</value>
+        <value id="50" timeOfDay="0">0 0 0</value>
+        <value id="50" timeOfDay="16">0 0 0</value>
+        <value id="60" timeOfDay="0">0 0 0</value>
+        <value id="60" timeOfDay="16">0 0 0</value>
+        <value id="70" timeOfDay="0">0 0 0</value>
+        <value id="70" timeOfDay="16">0 0 0</value>
+      </param>
+      <param name1="VolumetricFog SkyLight SkyColor" name2="SkyColor" type="Float4">
+        <value id="0" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="0" timeOfDay="4">0.588235 0.705882 0.784314 0.2</value>
+        <value id="0" timeOfDay="8">0.078431 0.117647 0.156863 0.5</value>
+        <value id="0" timeOfDay="11.5">0.588235 0.588235 0.588235 0.3</value>
+        <value id="0" timeOfDay="15">0.392157 0.508348 0.627451 0</value>
+        <value id="0" timeOfDay="21">0.588235 0.705882 0.784314 0.3</value>
+        <value id="0" timeOfDay="22.5">0.078431 0.117647 0.156863 0.5</value>
+        <value id="10" timeOfDay="0">0.392157 0.508348 0.627451 0</value>
+        <value id="10" timeOfDay="4">0.490196 0.54902 0.509804 0.05</value>
+        <value id="10" timeOfDay="11.5">0.490196 0.54902 0.509804 0.05</value>
+        <value id="10" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="20" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="20" timeOfDay="4">0.490196 0.54902 0.509804 0.05</value>
+        <value id="20" timeOfDay="16">0.784314 0.784314 0.784314 0</value>
+        <value id="30" timeOfDay="0">0.392157 0.508348 0.627451 0</value>
+        <value id="30" timeOfDay="4">0.588235 0.588235 0.588235 0.3</value>
+        <value id="30" timeOfDay="11.5">0.588235 0.588235 0.588235 0.3</value>
+        <value id="30" timeOfDay="16">0.588235 0.588235 0.588235 0.3</value>
+        <value id="40" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="40" timeOfDay="4">0.54 0.724 1 0.2</value>
+        <value id="40" timeOfDay="11.5">0.588235 0.705882 0.784314 0.3</value>
+        <value id="40" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="50" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="11.5">0.490196 0.54902 0.509804 0.05</value>
+        <value id="50" timeOfDay="16">0.588235 0.705882 0.784314 0.3</value>
+        <value id="60" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="60" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="60" timeOfDay="11.5">0.588235 0.588235 0.588235 0.3</value>
+        <value id="60" timeOfDay="16">0.588235 0.588235 0.588235 0.3</value>
+        <value id="70" timeOfDay="0">0.588235 0.588235 0.588235 0.3</value>
+        <value id="70" timeOfDay="4">0.588235 0.588235 0.588235 0.3</value>
+        <value id="70" timeOfDay="11.5">0.588235 0.705882 0.784314 0.3</value>
+        <value id="70" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+      </param>
+      <param name1="VolumetricFog SkyLight HeightAtten" name2="HeightAtten" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog SkyLight StartDist" name2="StartDist" type="Float">
+        <value id="0" timeOfDay="0">20</value>
+        <value id="10" timeOfDay="0">20</value>
+        <value id="10" timeOfDay="16">20</value>
+        <value id="20" timeOfDay="0">20</value>
+        <value id="20" timeOfDay="16">3</value>
+        <value id="30" timeOfDay="0">20</value>
+        <value id="30" timeOfDay="16">20</value>
+        <value id="40" timeOfDay="0">20</value>
+        <value id="40" timeOfDay="16">3</value>
+        <value id="50" timeOfDay="0">20</value>
+        <value id="50" timeOfDay="16">20</value>
+        <value id="60" timeOfDay="0">20</value>
+        <value id="60" timeOfDay="16">20</value>
+        <value id="70" timeOfDay="0">20</value>
+        <value id="70" timeOfDay="16">20</value>
+      </param>
+      <param name1="VolumetricFog DirLight LightBankId" name2="LightBankId" type="IntB">
+        <value id="0" timeOfDay="0">160000000</value>
+        <value id="10" timeOfDay="0">160000000</value>
+        <value id="10" timeOfDay="16">160000000</value>
+        <value id="20" timeOfDay="0">160000000</value>
+        <value id="20" timeOfDay="16">160000000</value>
+        <value id="30" timeOfDay="0">160000000</value>
+        <value id="30" timeOfDay="16">160000000</value>
+        <value id="40" timeOfDay="0">160000000</value>
+        <value id="40" timeOfDay="16">160000000</value>
+        <value id="50" timeOfDay="0">160000000</value>
+        <value id="50" timeOfDay="16">160000000</value>
+        <value id="60" timeOfDay="0">160000000</value>
+        <value id="60" timeOfDay="16">160000000</value>
+        <value id="70" timeOfDay="0">160000000</value>
+        <value id="70" timeOfDay="16">160000000</value>
+      </param>
+      <param name1="VolumetricFog DirLight LightId" name2="LightId" type="IntB">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog DirLight DirectColor" name2="DirectColor" type="Float4">
+        <value id="0" timeOfDay="0">1 1 1 1</value>
+        <value id="0" timeOfDay="4">0.95 0.681533 0.54625 1.2</value>
+        <value id="0" timeOfDay="8">0.078431 0.117647 0.156863 0.5</value>
+        <value id="0" timeOfDay="11.5">1 1 1 1</value>
+        <value id="0" timeOfDay="15">0.705882 0.803922 0.784314 0.066</value>
+        <value id="0" timeOfDay="21">0.95 0.681533 0.54625 1.2</value>
+        <value id="0" timeOfDay="22.5">0.078431 0.117647 0.156863 0.5</value>
+        <value id="10" timeOfDay="0">0.705882 0.803922 0.784314 0.066</value>
+        <value id="10" timeOfDay="4">0.901961 0.980392 0.843137 0.3</value>
+        <value id="10" timeOfDay="11.5">0.901961 0.980392 0.843137 0.2</value>
+        <value id="10" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="20" timeOfDay="0">1 1 1 1</value>
+        <value id="20" timeOfDay="4">0.901961 0.980392 0.843137 0.3</value>
+        <value id="20" timeOfDay="16">0.894553 0.617963 0.478586 0.3</value>
+        <value id="30" timeOfDay="0">0.705882 0.803922 0.784314 0.066</value>
+        <value id="30" timeOfDay="4">1 1 1 1</value>
+        <value id="30" timeOfDay="11.5">1 1 1 1</value>
+        <value id="30" timeOfDay="16">1 1 1 1</value>
+        <value id="40" timeOfDay="0">1 1 1 1</value>
+        <value id="40" timeOfDay="4">0.95 0.681533 0.54625 1</value>
+        <value id="40" timeOfDay="11.5">0.95 0.681533 0.54625 1.2</value>
+        <value id="40" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="0">1 1 1 1</value>
+        <value id="50" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="11.5">0.901961 0.980392 0.843137 0.3</value>
+        <value id="50" timeOfDay="16">0.95 0.681533 0.54625 1.2</value>
+        <value id="60" timeOfDay="0">1 1 1 1</value>
+        <value id="60" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="60" timeOfDay="11.5">1 1 1 1</value>
+        <value id="60" timeOfDay="16">1 1 1 1</value>
+        <value id="70" timeOfDay="0">1 1 1 1</value>
+        <value id="70" timeOfDay="4">1 1 1 1</value>
+        <value id="70" timeOfDay="11.5">0.95 0.681533 0.54625 1.2</value>
+        <value id="70" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+      </param>
+      <param name1="VolumetricFog DirLight OppositeColor" name2="OppositeColor" type="Float4">
+        <value id="0" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="0" timeOfDay="4">0.66 0.796 1 0.5</value>
+        <value id="0" timeOfDay="8">0.078431 0.117647 0.156863 0.5</value>
+        <value id="0" timeOfDay="11.5">0.66 0.796 1 0.5</value>
+        <value id="0" timeOfDay="15">0.705882 0.803922 0.784314 0.05</value>
+        <value id="0" timeOfDay="21">0.66 0.796 1 0.5</value>
+        <value id="0" timeOfDay="22.5">0.078431 0.117647 0.156863 0.5</value>
+        <value id="10" timeOfDay="0">0.705882 0.803922 0.784314 0.05</value>
+        <value id="10" timeOfDay="4">1 1 1 0.05</value>
+        <value id="10" timeOfDay="11.5">1 1 1 0.05</value>
+        <value id="10" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="20" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="20" timeOfDay="4">1 1 1 0.05</value>
+        <value id="20" timeOfDay="16">1 1 1 0.1</value>
+        <value id="30" timeOfDay="0">0.705882 0.803922 0.784314 0.05</value>
+        <value id="30" timeOfDay="4">0.66 0.796 1 0.5</value>
+        <value id="30" timeOfDay="11.5">0.66 0.796 1 0.5</value>
+        <value id="30" timeOfDay="16">0.66 0.796 1 0.5</value>
+        <value id="40" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="40" timeOfDay="4">0.66 0.796 1 0.5</value>
+        <value id="40" timeOfDay="11.5">0.66 0.796 1 0.5</value>
+        <value id="40" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="50" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="50" timeOfDay="11.5">1 1 1 0.05</value>
+        <value id="50" timeOfDay="16">0.66 0.796 1 0.5</value>
+        <value id="60" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="60" timeOfDay="4">0.078431 0.117647 0.156863 0.5</value>
+        <value id="60" timeOfDay="11.5">0.66 0.796 1 0.5</value>
+        <value id="60" timeOfDay="16">0.66 0.796 1 0.5</value>
+        <value id="70" timeOfDay="0">0.66 0.796 1 0.5</value>
+        <value id="70" timeOfDay="4">0.66 0.796 1 0.5</value>
+        <value id="70" timeOfDay="11.5">0.66 0.796 1 0.5</value>
+        <value id="70" timeOfDay="16">0.078431 0.117647 0.156863 0.5</value>
+      </param>
+      <param name1="VolumetricFog DirLight HeightAtten" name2="HeightAtten" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog DirLight StartDist" name2="StartDist" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">3</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">3</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+      <param name1="VolumetricFog DirLight ShadowSampleCount" name2="ShadowSampleCount" type="IntB">
+        <value id="0" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="16">8</value>
+        <value id="20" timeOfDay="0">8</value>
+        <value id="20" timeOfDay="16">8</value>
+        <value id="30" timeOfDay="0">8</value>
+        <value id="30" timeOfDay="16">8</value>
+        <value id="40" timeOfDay="0">8</value>
+        <value id="40" timeOfDay="16">8</value>
+        <value id="50" timeOfDay="0">8</value>
+        <value id="50" timeOfDay="16">8</value>
+        <value id="60" timeOfDay="0">8</value>
+        <value id="60" timeOfDay="16">8</value>
+        <value id="70" timeOfDay="0">8</value>
+        <value id="70" timeOfDay="16">8</value>
+      </param>
+      <param name1="VolumetricFog DirLight ShadowDither" name2="ShadowDither" type="Float">
+        <value id="0" timeOfDay="0">0.4</value>
+        <value id="10" timeOfDay="0">0.4</value>
+        <value id="10" timeOfDay="16">0.4</value>
+        <value id="20" timeOfDay="0">0.4</value>
+        <value id="20" timeOfDay="16">0.4</value>
+        <value id="30" timeOfDay="0">0.4</value>
+        <value id="30" timeOfDay="16">0.4</value>
+        <value id="40" timeOfDay="0">0.4</value>
+        <value id="40" timeOfDay="16">0.4</value>
+        <value id="50" timeOfDay="0">0.4</value>
+        <value id="50" timeOfDay="16">0.4</value>
+        <value id="60" timeOfDay="0">0.4</value>
+        <value id="60" timeOfDay="16">0.4</value>
+        <value id="70" timeOfDay="0">0.4</value>
+        <value id="70" timeOfDay="16">0.4</value>
+      </param>
+      <param name1="VolumetricFog DirLight AngleClip" name2="AngleClip" type="Float">
+        <value id="0" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="0">0.2</value>
+        <value id="10" timeOfDay="16">0.2</value>
+        <value id="20" timeOfDay="0">0.2</value>
+        <value id="20" timeOfDay="16">0.2</value>
+        <value id="30" timeOfDay="0">0.2</value>
+        <value id="30" timeOfDay="16">0.2</value>
+        <value id="40" timeOfDay="0">0.2</value>
+        <value id="40" timeOfDay="16">0.2</value>
+        <value id="50" timeOfDay="0">0.2</value>
+        <value id="50" timeOfDay="16">0.2</value>
+        <value id="60" timeOfDay="0">0.2</value>
+        <value id="60" timeOfDay="16">0.2</value>
+        <value id="70" timeOfDay="0">0.2</value>
+        <value id="70" timeOfDay="16">0.2</value>
+      </param>
+      <param name1="VolumetricFog DirLight EnableReproj" name2="EnableReproj" type="BoolB">
+        <value id="0" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="0">True</value>
+        <value id="10" timeOfDay="16">True</value>
+        <value id="20" timeOfDay="0">True</value>
+        <value id="20" timeOfDay="16">True</value>
+        <value id="30" timeOfDay="0">True</value>
+        <value id="30" timeOfDay="16">True</value>
+        <value id="40" timeOfDay="0">True</value>
+        <value id="40" timeOfDay="16">True</value>
+        <value id="50" timeOfDay="0">True</value>
+        <value id="50" timeOfDay="16">True</value>
+        <value id="60" timeOfDay="0">True</value>
+        <value id="60" timeOfDay="16">True</value>
+        <value id="70" timeOfDay="0">True</value>
+        <value id="70" timeOfDay="16">True</value>
+      </param>
+      <param name1="VolumetricFog DirLight JitterCount" name2="JitterCount" type="IntB">
+        <value id="0" timeOfDay="0">4</value>
+        <value id="10" timeOfDay="0">4</value>
+        <value id="10" timeOfDay="16">4</value>
+        <value id="20" timeOfDay="0">4</value>
+        <value id="20" timeOfDay="16">4</value>
+        <value id="30" timeOfDay="0">4</value>
+        <value id="30" timeOfDay="16">4</value>
+        <value id="40" timeOfDay="0">4</value>
+        <value id="40" timeOfDay="16">4</value>
+        <value id="50" timeOfDay="0">4</value>
+        <value id="50" timeOfDay="16">4</value>
+        <value id="60" timeOfDay="0">4</value>
+        <value id="60" timeOfDay="16">4</value>
+        <value id="70" timeOfDay="0">4</value>
+        <value id="70" timeOfDay="16">4</value>
+      </param>
+      <param name1="VolumetricFog DirLight JitterXYSize" name2="JitterXYSize" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="0">1</value>
+        <value id="10" timeOfDay="16">1</value>
+        <value id="20" timeOfDay="0">1</value>
+        <value id="20" timeOfDay="16">1</value>
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="50" timeOfDay="0">1</value>
+        <value id="50" timeOfDay="16">1</value>
+        <value id="60" timeOfDay="0">1</value>
+        <value id="60" timeOfDay="16">1</value>
+        <value id="70" timeOfDay="0">1</value>
+        <value id="70" timeOfDay="16">1</value>
+      </param>
+      <param name1="VolumetricFog DirLight FeedbackWeight" name2="FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="16">0.8</value>
+        <value id="20" timeOfDay="0">0.8</value>
+        <value id="20" timeOfDay="16">0.8</value>
+        <value id="30" timeOfDay="0">0.8</value>
+        <value id="30" timeOfDay="16">0.8</value>
+        <value id="40" timeOfDay="0">0.8</value>
+        <value id="40" timeOfDay="16">0.8</value>
+        <value id="50" timeOfDay="0">0.8</value>
+        <value id="50" timeOfDay="16">0.8</value>
+        <value id="60" timeOfDay="0">0.8</value>
+        <value id="60" timeOfDay="16">0.8</value>
+        <value id="70" timeOfDay="0">0.8</value>
+        <value id="70" timeOfDay="16">0.8</value>
+      </param>
+      <param name1="VolumetricFog FogVolume InjectingSampleCount" name2="InjectingSampleCount" type="IntB">
+        <value id="0" timeOfDay="0">16</value>
+        <value id="0" timeOfDay="4">16</value>
+        <value id="0" timeOfDay="8">16</value>
+        <value id="0" timeOfDay="11.5">16</value>
+        <value id="0" timeOfDay="15">16</value>
+        <value id="0" timeOfDay="21">16</value>
+        <value id="0" timeOfDay="22.5">16</value>
+        <value id="10" timeOfDay="0">16</value>
+        <value id="10" timeOfDay="4">16</value>
+        <value id="10" timeOfDay="11.5">16</value>
+        <value id="10" timeOfDay="16">16</value>
+        <value id="20" timeOfDay="0">16</value>
+        <value id="20" timeOfDay="4">16</value>
+        <value id="20" timeOfDay="11.5">16</value>
+        <value id="20" timeOfDay="16">16</value>
+        <value id="30" timeOfDay="0">16</value>
+        <value id="30" timeOfDay="4">16</value>
+        <value id="30" timeOfDay="11.5">16</value>
+        <value id="30" timeOfDay="16">16</value>
+        <value id="40" timeOfDay="0">16</value>
+        <value id="40" timeOfDay="4">16</value>
+        <value id="40" timeOfDay="11.5">16</value>
+        <value id="40" timeOfDay="16">16</value>
+        <value id="50" timeOfDay="0">16</value>
+        <value id="50" timeOfDay="4">16</value>
+        <value id="50" timeOfDay="11.5">16</value>
+        <value id="50" timeOfDay="16">16</value>
+        <value id="60" timeOfDay="0">16</value>
+        <value id="60" timeOfDay="4">16</value>
+        <value id="60" timeOfDay="11.5">16</value>
+        <value id="60" timeOfDay="16">16</value>
+        <value id="70" timeOfDay="0">16</value>
+        <value id="70" timeOfDay="4">16</value>
+        <value id="70" timeOfDay="11.5">16</value>
+        <value id="70" timeOfDay="16">16</value>
+      </param>
+      <param name1="VolumetricFog FogVolume InjectingDither" name2="InjectingDither" type="Float">
+        <value id="0" timeOfDay="0">0.4</value>
+        <value id="0" timeOfDay="4">0.4</value>
+        <value id="0" timeOfDay="8">0.4</value>
+        <value id="0" timeOfDay="11.5">0.4</value>
+        <value id="0" timeOfDay="15">0.4</value>
+        <value id="0" timeOfDay="21">0.4</value>
+        <value id="0" timeOfDay="22.5">0.4</value>
+        <value id="10" timeOfDay="0">0.4</value>
+        <value id="10" timeOfDay="4">0.4</value>
+        <value id="10" timeOfDay="11.5">0.4</value>
+        <value id="10" timeOfDay="16">0.4</value>
+        <value id="20" timeOfDay="0">0.4</value>
+        <value id="20" timeOfDay="4">0.4</value>
+        <value id="20" timeOfDay="11.5">0.4</value>
+        <value id="20" timeOfDay="16">0.4</value>
+        <value id="30" timeOfDay="0">0.4</value>
+        <value id="30" timeOfDay="4">0.4</value>
+        <value id="30" timeOfDay="11.5">0.4</value>
+        <value id="30" timeOfDay="16">0.4</value>
+        <value id="40" timeOfDay="0">0.4</value>
+        <value id="40" timeOfDay="4">0.4</value>
+        <value id="40" timeOfDay="11.5">0.4</value>
+        <value id="40" timeOfDay="16">0.4</value>
+        <value id="50" timeOfDay="0">0.4</value>
+        <value id="50" timeOfDay="4">0.4</value>
+        <value id="50" timeOfDay="11.5">0.4</value>
+        <value id="50" timeOfDay="16">0.4</value>
+        <value id="60" timeOfDay="0">0.4</value>
+        <value id="60" timeOfDay="4">0.4</value>
+        <value id="60" timeOfDay="11.5">0.4</value>
+        <value id="60" timeOfDay="16">0.4</value>
+        <value id="70" timeOfDay="0">0.4</value>
+        <value id="70" timeOfDay="4">0.4</value>
+        <value id="70" timeOfDay="11.5">0.4</value>
+        <value id="70" timeOfDay="16">0.4</value>
+      </param>
+      <param name1="VolumetricFog FogVolume InjectingReprojEnabled" name2="InjectingReprojEnabled" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+        <value id="0" timeOfDay="4">False</value>
+        <value id="0" timeOfDay="8">False</value>
+        <value id="0" timeOfDay="11.5">False</value>
+        <value id="0" timeOfDay="15">False</value>
+        <value id="0" timeOfDay="21">False</value>
+        <value id="0" timeOfDay="22.5">False</value>
+        <value id="10" timeOfDay="0">False</value>
+        <value id="10" timeOfDay="4">False</value>
+        <value id="10" timeOfDay="11.5">False</value>
+        <value id="10" timeOfDay="16">False</value>
+        <value id="20" timeOfDay="0">False</value>
+        <value id="20" timeOfDay="4">False</value>
+        <value id="20" timeOfDay="11.5">False</value>
+        <value id="20" timeOfDay="16">False</value>
+        <value id="30" timeOfDay="0">False</value>
+        <value id="30" timeOfDay="4">False</value>
+        <value id="30" timeOfDay="11.5">False</value>
+        <value id="30" timeOfDay="16">False</value>
+        <value id="40" timeOfDay="0">False</value>
+        <value id="40" timeOfDay="4">False</value>
+        <value id="40" timeOfDay="11.5">False</value>
+        <value id="40" timeOfDay="16">False</value>
+        <value id="50" timeOfDay="0">False</value>
+        <value id="50" timeOfDay="4">False</value>
+        <value id="50" timeOfDay="11.5">False</value>
+        <value id="50" timeOfDay="16">False</value>
+        <value id="60" timeOfDay="0">False</value>
+        <value id="60" timeOfDay="4">False</value>
+        <value id="60" timeOfDay="11.5">False</value>
+        <value id="60" timeOfDay="16">False</value>
+        <value id="70" timeOfDay="0">False</value>
+        <value id="70" timeOfDay="4">False</value>
+        <value id="70" timeOfDay="11.5">False</value>
+        <value id="70" timeOfDay="16">False</value>
+      </param>
+      <param name1="VolumetricFog FogVolume InjectingFeedbackWeight" name2="InjectingFeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.8</value>
+        <value id="0" timeOfDay="4">0.8</value>
+        <value id="0" timeOfDay="8">0.8</value>
+        <value id="0" timeOfDay="11.5">0.8</value>
+        <value id="0" timeOfDay="15">0.8</value>
+        <value id="0" timeOfDay="21">0.8</value>
+        <value id="0" timeOfDay="22.5">0.8</value>
+        <value id="10" timeOfDay="0">0.8</value>
+        <value id="10" timeOfDay="4">0.8</value>
+        <value id="10" timeOfDay="11.5">0.8</value>
+        <value id="10" timeOfDay="16">0.8</value>
+        <value id="20" timeOfDay="0">0.8</value>
+        <value id="20" timeOfDay="4">0.8</value>
+        <value id="20" timeOfDay="11.5">0.8</value>
+        <value id="20" timeOfDay="16">0.8</value>
+        <value id="30" timeOfDay="0">0.8</value>
+        <value id="30" timeOfDay="4">0.8</value>
+        <value id="30" timeOfDay="11.5">0.8</value>
+        <value id="30" timeOfDay="16">0.8</value>
+        <value id="40" timeOfDay="0">0.8</value>
+        <value id="40" timeOfDay="4">0.8</value>
+        <value id="40" timeOfDay="11.5">0.8</value>
+        <value id="40" timeOfDay="16">0.8</value>
+        <value id="50" timeOfDay="0">0.8</value>
+        <value id="50" timeOfDay="4">0.8</value>
+        <value id="50" timeOfDay="11.5">0.8</value>
+        <value id="50" timeOfDay="16">0.8</value>
+        <value id="60" timeOfDay="0">0.8</value>
+        <value id="60" timeOfDay="4">0.8</value>
+        <value id="60" timeOfDay="11.5">0.8</value>
+        <value id="60" timeOfDay="16">0.8</value>
+        <value id="70" timeOfDay="0">0.8</value>
+        <value id="70" timeOfDay="4">0.8</value>
+        <value id="70" timeOfDay="11.5">0.8</value>
+        <value id="70" timeOfDay="16">0.8</value>
+      </param>
+      <param name1="VolumetricFog Config SampleCount" name2="SampleCount" type="IntB">
+        <value id="0" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="0">8</value>
+        <value id="10" timeOfDay="16">8</value>
+        <value id="20" timeOfDay="0">8</value>
+        <value id="20" timeOfDay="16">8</value>
+        <value id="30" timeOfDay="0">8</value>
+        <value id="30" timeOfDay="16">8</value>
+        <value id="40" timeOfDay="0">8</value>
+        <value id="40" timeOfDay="16">8</value>
+        <value id="50" timeOfDay="0">8</value>
+        <value id="50" timeOfDay="16">8</value>
+        <value id="60" timeOfDay="0">8</value>
+        <value id="60" timeOfDay="16">8</value>
+        <value id="70" timeOfDay="0">8</value>
+        <value id="70" timeOfDay="16">8</value>
+      </param>
+      <param name1="VolumetricFog Config Dither" name2="Dither" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="0">0</value>
+        <value id="10" timeOfDay="16">0</value>
+        <value id="20" timeOfDay="0">0</value>
+        <value id="20" timeOfDay="16">0</value>
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="50" timeOfDay="0">0</value>
+        <value id="50" timeOfDay="16">0</value>
+        <value id="60" timeOfDay="0">0</value>
+        <value id="60" timeOfDay="16">0</value>
+        <value id="70" timeOfDay="0">0</value>
+        <value id="70" timeOfDay="16">0</value>
+      </param>
+    </group>
+    <group name1="FogVolume ParamEditor" name2="FogVolume">
+      <comments />
+      <param name1="FogVolume DrawArea NearFadeMinDistance" name2="NearFadeMinDistance" type="Float">
+        <value id="30" timeOfDay="0">20</value>
+        <value id="30" timeOfDay="4">20</value>
+        <value id="30" timeOfDay="11.5">20</value>
+        <value id="30" timeOfDay="16">20</value>
+        <value id="40" timeOfDay="0">20</value>
+        <value id="40" timeOfDay="4">20</value>
+        <value id="40" timeOfDay="11.5">20</value>
+        <value id="40" timeOfDay="16">20</value>
+        <value id="41" timeOfDay="0">0</value>
+        <value id="41" timeOfDay="4">0</value>
+        <value id="41" timeOfDay="11.5">0</value>
+        <value id="41" timeOfDay="16">0</value>
+        <value id="100" timeOfDay="0">20</value>
+      </param>
+      <param name1="FogVolume DrawArea NearFadeMaxDistance" name2="NearFadeMaxDistance" type="Float">
+        <value id="30" timeOfDay="0">180</value>
+        <value id="30" timeOfDay="4">180</value>
+        <value id="30" timeOfDay="11.5">180</value>
+        <value id="30" timeOfDay="16">180</value>
+        <value id="40" timeOfDay="0">180</value>
+        <value id="40" timeOfDay="4">180</value>
+        <value id="40" timeOfDay="11.5">180</value>
+        <value id="40" timeOfDay="16">180</value>
+        <value id="41" timeOfDay="0">0</value>
+        <value id="41" timeOfDay="4">0</value>
+        <value id="41" timeOfDay="11.5">0</value>
+        <value id="41" timeOfDay="16">0</value>
+        <value id="100" timeOfDay="0">180</value>
+      </param>
+      <param name1="FogVolume DrawArea EdgeFadeDistance" name2="EdgeFadeDistance" type="Float">
+        <value id="30" timeOfDay="0">10</value>
+        <value id="30" timeOfDay="4">10</value>
+        <value id="30" timeOfDay="11.5">10</value>
+        <value id="30" timeOfDay="16">10</value>
+        <value id="40" timeOfDay="0">10</value>
+        <value id="40" timeOfDay="4">10</value>
+        <value id="40" timeOfDay="11.5">10</value>
+        <value id="40" timeOfDay="16">10</value>
+        <value id="41" timeOfDay="0">0.25</value>
+        <value id="41" timeOfDay="4">0.25</value>
+        <value id="41" timeOfDay="11.5">0.25</value>
+        <value id="41" timeOfDay="16">0.25</value>
+        <value id="100" timeOfDay="0">10</value>
+      </param>
+      <param name1="FogVolume DrawArea EdgeFadeExponent" name2="EdgeFadeExponent" type="Float">
+        <value id="30" timeOfDay="0">0.5</value>
+        <value id="30" timeOfDay="4">0.5</value>
+        <value id="30" timeOfDay="11.5">0.5</value>
+        <value id="30" timeOfDay="16">0.5</value>
+        <value id="40" timeOfDay="0">0.5</value>
+        <value id="40" timeOfDay="4">0.5</value>
+        <value id="40" timeOfDay="11.5">0.5</value>
+        <value id="40" timeOfDay="16">0.5</value>
+        <value id="41" timeOfDay="0">0.5</value>
+        <value id="41" timeOfDay="4">0.5</value>
+        <value id="41" timeOfDay="11.5">0.5</value>
+        <value id="41" timeOfDay="16">0.5</value>
+        <value id="100" timeOfDay="0">0.5</value>
+      </param>
+      <param name1="FogVolume DrawArea HeightFallOff" name2="HeightFallOff" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">2.5</value>
+        <value id="41" timeOfDay="4">2.5</value>
+        <value id="41" timeOfDay="11.5">2.5</value>
+        <value id="41" timeOfDay="16">2.5</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume DrawArea FadeDistanceForHeightMap" name2="FadeDistanceForHeightMap" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">0</value>
+        <value id="41" timeOfDay="4">0</value>
+        <value id="41" timeOfDay="11.5">0</value>
+        <value id="41" timeOfDay="16">0</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume DrawArea MaxInjectingDepth" name2="MaxInjectingDepth" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">0</value>
+        <value id="41" timeOfDay="4">0</value>
+        <value id="41" timeOfDay="11.5">0</value>
+        <value id="41" timeOfDay="16">0</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume RayMarching MaxSampleCount" name2="MaxSampleCount" type="IntB">
+        <value id="30" timeOfDay="0">40</value>
+        <value id="30" timeOfDay="4">40</value>
+        <value id="30" timeOfDay="11.5">40</value>
+        <value id="30" timeOfDay="16">40</value>
+        <value id="40" timeOfDay="0">40</value>
+        <value id="40" timeOfDay="4">40</value>
+        <value id="40" timeOfDay="11.5">40</value>
+        <value id="40" timeOfDay="16">40</value>
+        <value id="41" timeOfDay="0">32</value>
+        <value id="41" timeOfDay="4">32</value>
+        <value id="41" timeOfDay="11.5">32</value>
+        <value id="41" timeOfDay="16">32</value>
+        <value id="100" timeOfDay="0">40</value>
+      </param>
+      <param name1="FogVolume RayMarching SteppingDistance" name2="SteppingDistance" type="Float">
+        <value id="30" timeOfDay="0">0.2</value>
+        <value id="30" timeOfDay="4">0.2</value>
+        <value id="30" timeOfDay="11.5">0.2</value>
+        <value id="30" timeOfDay="16">0.2</value>
+        <value id="40" timeOfDay="0">0.2</value>
+        <value id="40" timeOfDay="4">0.2</value>
+        <value id="40" timeOfDay="11.5">0.2</value>
+        <value id="40" timeOfDay="16">0.2</value>
+        <value id="41" timeOfDay="0">0.1</value>
+        <value id="41" timeOfDay="4">0.1</value>
+        <value id="41" timeOfDay="11.5">0.1</value>
+        <value id="41" timeOfDay="16">0.1</value>
+        <value id="100" timeOfDay="0">0.2</value>
+      </param>
+      <param name1="FogVolume RayMarching SuspendedTransmittance" name2="SuspendedTransmittance" type="Float">
+        <value id="30" timeOfDay="0">0.01</value>
+        <value id="30" timeOfDay="4">0.01</value>
+        <value id="30" timeOfDay="11.5">0.01</value>
+        <value id="30" timeOfDay="16">0.01</value>
+        <value id="40" timeOfDay="0">0.01</value>
+        <value id="40" timeOfDay="4">0.01</value>
+        <value id="40" timeOfDay="11.5">0.01</value>
+        <value id="40" timeOfDay="16">0.01</value>
+        <value id="41" timeOfDay="0">0.001</value>
+        <value id="41" timeOfDay="4">0.001</value>
+        <value id="41" timeOfDay="11.5">0.001</value>
+        <value id="41" timeOfDay="16">0.001</value>
+        <value id="100" timeOfDay="0">0.01</value>
+      </param>
+      <param name1="FogVolume RayMarching LightProcessingInterval" name2="LightProcessingInterval" type="IntB">
+        <value id="30" timeOfDay="0">8</value>
+        <value id="30" timeOfDay="4">8</value>
+        <value id="30" timeOfDay="11.5">8</value>
+        <value id="30" timeOfDay="16">8</value>
+        <value id="40" timeOfDay="0">8</value>
+        <value id="40" timeOfDay="4">8</value>
+        <value id="40" timeOfDay="11.5">8</value>
+        <value id="40" timeOfDay="16">8</value>
+        <value id="41" timeOfDay="0">4</value>
+        <value id="41" timeOfDay="4">4</value>
+        <value id="41" timeOfDay="11.5">4</value>
+        <value id="41" timeOfDay="16">4</value>
+        <value id="100" timeOfDay="0">8</value>
+      </param>
+      <param name1="FogVolume RayMarching LightProcessingIntervalThreshold" name2="LightProcessingIntervalThreshold" type="Float">
+        <value id="30" timeOfDay="0">0.75</value>
+        <value id="30" timeOfDay="4">0.75</value>
+        <value id="30" timeOfDay="11.5">0.75</value>
+        <value id="30" timeOfDay="16">0.75</value>
+        <value id="40" timeOfDay="0">0.75</value>
+        <value id="40" timeOfDay="4">0.75</value>
+        <value id="40" timeOfDay="11.5">0.75</value>
+        <value id="40" timeOfDay="16">0.75</value>
+        <value id="41" timeOfDay="0">0.5</value>
+        <value id="41" timeOfDay="4">0.5</value>
+        <value id="41" timeOfDay="11.5">0.5</value>
+        <value id="41" timeOfDay="16">0.5</value>
+        <value id="100" timeOfDay="0">0.75</value>
+      </param>
+      <param name1="FogVolume Light Overwrite" name2="Overwrite" type="BoolB">
+        <value id="30" timeOfDay="0">False</value>
+        <value id="30" timeOfDay="4">False</value>
+        <value id="30" timeOfDay="11.5">False</value>
+        <value id="30" timeOfDay="16">False</value>
+        <value id="40" timeOfDay="0">False</value>
+        <value id="40" timeOfDay="4">False</value>
+        <value id="40" timeOfDay="11.5">False</value>
+        <value id="40" timeOfDay="16">False</value>
+        <value id="41" timeOfDay="0">False</value>
+        <value id="41" timeOfDay="4">False</value>
+        <value id="41" timeOfDay="11.5">False</value>
+        <value id="41" timeOfDay="16">False</value>
+        <value id="100" timeOfDay="0">False</value>
+      </param>
+      <param name1="FogVolume Light DirectionalLightAngle" name2="DirectionalLightAngle" type="Float2">
+        <value id="30" timeOfDay="0">-0.785398 1.570796</value>
+        <value id="30" timeOfDay="4">-0.785398 1.570796</value>
+        <value id="30" timeOfDay="11.5">-0.785398 1.570796</value>
+        <value id="30" timeOfDay="16">-0.785398 1.570796</value>
+        <value id="40" timeOfDay="0">-0.785398 1.570796</value>
+        <value id="40" timeOfDay="4">-0.785398 1.570796</value>
+        <value id="40" timeOfDay="11.5">-0.785398 1.570796</value>
+        <value id="40" timeOfDay="16">-0.785398 1.570796</value>
+        <value id="41" timeOfDay="0">-0.785398 1.570796</value>
+        <value id="41" timeOfDay="4">-0.785398 1.570796</value>
+        <value id="41" timeOfDay="11.5">-0.785398 1.570796</value>
+        <value id="41" timeOfDay="16">-0.785398 1.570796</value>
+        <value id="100" timeOfDay="0">-0.785398 1.570796</value>
+      </param>
+      <param name1="FogVolume Light DirectionalLightColor" name2="DirectionalLightColor" type="Float4">
+        <value id="30" timeOfDay="0">1 1 1 1</value>
+        <value id="30" timeOfDay="4">1 1 1 1</value>
+        <value id="30" timeOfDay="11.5">1 1 1 1</value>
+        <value id="30" timeOfDay="16">1 1 1 1</value>
+        <value id="40" timeOfDay="0">1 1 1 1</value>
+        <value id="40" timeOfDay="4">1 1 1 1</value>
+        <value id="40" timeOfDay="11.5">1 1 1 1</value>
+        <value id="40" timeOfDay="16">1 1 1 1</value>
+        <value id="41" timeOfDay="0">1 1 1 1</value>
+        <value id="41" timeOfDay="4">1 1 1 1</value>
+        <value id="41" timeOfDay="11.5">1 1 1 1</value>
+        <value id="41" timeOfDay="16">1 1 1 1</value>
+        <value id="100" timeOfDay="0">1 1 1 1</value>
+      </param>
+      <param name1="FogVolume Light DirectionalLightOppositeColor" name2="DirectionalLightOppositeColor" type="Float4">
+        <value id="30" timeOfDay="0">1 1 1 1</value>
+        <value id="30" timeOfDay="4">1 1 1 1</value>
+        <value id="30" timeOfDay="11.5">1 1 1 1</value>
+        <value id="30" timeOfDay="16">1 1 1 1</value>
+        <value id="40" timeOfDay="0">1 1 1 1</value>
+        <value id="40" timeOfDay="4">1 1 1 1</value>
+        <value id="40" timeOfDay="11.5">1 1 1 1</value>
+        <value id="40" timeOfDay="16">1 1 1 1</value>
+        <value id="41" timeOfDay="0">1 1 1 1</value>
+        <value id="41" timeOfDay="4">1 1 1 1</value>
+        <value id="41" timeOfDay="11.5">1 1 1 1</value>
+        <value id="41" timeOfDay="16">1 1 1 1</value>
+        <value id="100" timeOfDay="0">1 1 1 1</value>
+      </param>
+      <param name1="FogVolume Light AmbientColor" name2="AmbientColor" type="Float4">
+        <value id="30" timeOfDay="0">0 0 0 1</value>
+        <value id="30" timeOfDay="4">0 0 0 1</value>
+        <value id="30" timeOfDay="11.5">0 0 0 1</value>
+        <value id="30" timeOfDay="16">0 0 0 1</value>
+        <value id="40" timeOfDay="0">0 0 0 1</value>
+        <value id="40" timeOfDay="4">0 0 0 1</value>
+        <value id="40" timeOfDay="11.5">0 0 0 1</value>
+        <value id="40" timeOfDay="16">0 0 0 1</value>
+        <value id="41" timeOfDay="0">0 0 0 1</value>
+        <value id="41" timeOfDay="4">0 0 0 1</value>
+        <value id="41" timeOfDay="11.5">0 0 0 1</value>
+        <value id="41" timeOfDay="16">0 0 0 1</value>
+        <value id="100" timeOfDay="0">0 0 0 1</value>
+      </param>
+      <param name1="FogVolume Light ShadowingIntensity" name2="ShadowingIntensity" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">1</value>
+        <value id="41" timeOfDay="4">1</value>
+        <value id="41" timeOfDay="11.5">1</value>
+        <value id="41" timeOfDay="16">1</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume Light AttenuationIntensity" name2="AttenuationIntensity" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">0.25</value>
+        <value id="41" timeOfDay="4">0.25</value>
+        <value id="41" timeOfDay="11.5">0.25</value>
+        <value id="41" timeOfDay="16">0.25</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume Light AttenuationOffset" name2="AttenuationOffset" type="Float">
+        <value id="30" timeOfDay="0">1.25</value>
+        <value id="30" timeOfDay="4">1.25</value>
+        <value id="30" timeOfDay="11.5">1.25</value>
+        <value id="30" timeOfDay="16">1.25</value>
+        <value id="40" timeOfDay="0">1.25</value>
+        <value id="40" timeOfDay="4">1.25</value>
+        <value id="40" timeOfDay="11.5">1.25</value>
+        <value id="40" timeOfDay="16">1.25</value>
+        <value id="41" timeOfDay="0">1.25</value>
+        <value id="41" timeOfDay="4">1.25</value>
+        <value id="41" timeOfDay="11.5">1.25</value>
+        <value id="41" timeOfDay="16">1.25</value>
+        <value id="100" timeOfDay="0">1.25</value>
+      </param>
+      <param name1="FogVolume Light OctaveNumPerlinNoise" name2="OctaveNumOfPerlinNoise" type="IntB">
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="4">1</value>
+        <value id="30" timeOfDay="11.5">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="4">1</value>
+        <value id="40" timeOfDay="11.5">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="41" timeOfDay="0">3</value>
+        <value id="41" timeOfDay="4">3</value>
+        <value id="41" timeOfDay="11.5">3</value>
+        <value id="41" timeOfDay="16">3</value>
+        <value id="100" timeOfDay="0">1</value>
+      </param>
+      <param name1="FogVolume Density Intensity" name2="Intensity" type="Float">
+        <value id="30" timeOfDay="0">0.1</value>
+        <value id="30" timeOfDay="4">0.1</value>
+        <value id="30" timeOfDay="11.5">0.1</value>
+        <value id="30" timeOfDay="16">0.1</value>
+        <value id="40" timeOfDay="0">0.1</value>
+        <value id="40" timeOfDay="4">0.1</value>
+        <value id="40" timeOfDay="11.5">0.1</value>
+        <value id="40" timeOfDay="16">0.1</value>
+        <value id="41" timeOfDay="0">1</value>
+        <value id="41" timeOfDay="4">1</value>
+        <value id="41" timeOfDay="11.5">1</value>
+        <value id="41" timeOfDay="16">1</value>
+        <value id="100" timeOfDay="0">0.1</value>
+      </param>
+      <param name1="FogVolume PerlinNoise Frequency" name2="Frequency" type="Float">
+        <value id="30" timeOfDay="0">0.03</value>
+        <value id="30" timeOfDay="4">0.03</value>
+        <value id="30" timeOfDay="11.5">0.03</value>
+        <value id="30" timeOfDay="16">0.03</value>
+        <value id="40" timeOfDay="0">0.03</value>
+        <value id="40" timeOfDay="4">0.03</value>
+        <value id="40" timeOfDay="11.5">0.03</value>
+        <value id="40" timeOfDay="16">0.03</value>
+        <value id="41" timeOfDay="0">0.2</value>
+        <value id="41" timeOfDay="4">0.2</value>
+        <value id="41" timeOfDay="11.5">0.2</value>
+        <value id="41" timeOfDay="16">0.2</value>
+        <value id="100" timeOfDay="0">0.03</value>
+      </param>
+      <param name1="FogVolume PerlinNoise Lacunarity" name2="Lacunarity" type="Float">
+        <value id="30" timeOfDay="0">3.7333</value>
+        <value id="30" timeOfDay="4">3.7333</value>
+        <value id="30" timeOfDay="11.5">3.7333</value>
+        <value id="30" timeOfDay="16">3.7333</value>
+        <value id="40" timeOfDay="0">3.7333</value>
+        <value id="40" timeOfDay="4">3.7333</value>
+        <value id="40" timeOfDay="11.5">3.7333</value>
+        <value id="40" timeOfDay="16">3.7333</value>
+        <value id="41" timeOfDay="0">3.3333</value>
+        <value id="41" timeOfDay="4">3.3333</value>
+        <value id="41" timeOfDay="11.5">3.3333</value>
+        <value id="41" timeOfDay="16">3.3333</value>
+        <value id="100" timeOfDay="0">3.7333</value>
+      </param>
+      <param name1="FogVolume PerlinNoise Gain" name2="Gain" type="Float">
+        <value id="30" timeOfDay="0">0.3</value>
+        <value id="30" timeOfDay="4">0.3</value>
+        <value id="30" timeOfDay="11.5">0.3</value>
+        <value id="30" timeOfDay="16">0.3</value>
+        <value id="40" timeOfDay="0">0.3</value>
+        <value id="40" timeOfDay="4">0.3</value>
+        <value id="40" timeOfDay="11.5">0.3</value>
+        <value id="40" timeOfDay="16">0.3</value>
+        <value id="41" timeOfDay="0">0.5</value>
+        <value id="41" timeOfDay="4">0.5</value>
+        <value id="41" timeOfDay="11.5">0.5</value>
+        <value id="41" timeOfDay="16">0.5</value>
+        <value id="100" timeOfDay="0">0.3</value>
+      </param>
+      <param name1="FogVolume PerlinNoise Offset" name2="Offset" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">-0.1</value>
+        <value id="40" timeOfDay="4">-0.1</value>
+        <value id="40" timeOfDay="11.5">-0.1</value>
+        <value id="40" timeOfDay="16">-0.1</value>
+        <value id="41" timeOfDay="0">-0.1</value>
+        <value id="41" timeOfDay="4">-0.1</value>
+        <value id="41" timeOfDay="11.5">-0.1</value>
+        <value id="41" timeOfDay="16">-0.1</value>
+        <value id="100" timeOfDay="0">-0.1</value>
+      </param>
+      <param name1="FogVolume Scroll Speed-x" name2="Speed.x" type="Float">
+        <value id="30" timeOfDay="0">0</value>
+        <value id="30" timeOfDay="4">0</value>
+        <value id="30" timeOfDay="11.5">0</value>
+        <value id="30" timeOfDay="16">0</value>
+        <value id="40" timeOfDay="0">0</value>
+        <value id="40" timeOfDay="4">0</value>
+        <value id="40" timeOfDay="11.5">0</value>
+        <value id="40" timeOfDay="16">0</value>
+        <value id="41" timeOfDay="0">1.5</value>
+        <value id="41" timeOfDay="4">1.5</value>
+        <value id="41" timeOfDay="11.5">1.5</value>
+        <value id="41" timeOfDay="16">1.5</value>
+        <value id="100" timeOfDay="0">0</value>
+      </param>
+      <param name1="FogVolume Scroll Speed-y" name2="Speed.y" type="Float">
+        <value id="30" timeOfDay="0">-4</value>
+        <value id="30" timeOfDay="4">-4</value>
+        <value id="30" timeOfDay="11.5">-4</value>
+        <value id="30" timeOfDay="16">-4</value>
+        <value id="40" timeOfDay="0">-4</value>
+        <value id="40" timeOfDay="4">-4</value>
+        <value id="40" timeOfDay="11.5">-4</value>
+        <value id="40" timeOfDay="16">-4</value>
+        <value id="41" timeOfDay="0">0.2</value>
+        <value id="41" timeOfDay="4">0.2</value>
+        <value id="41" timeOfDay="11.5">0.2</value>
+        <value id="41" timeOfDay="16">0.2</value>
+        <value id="100" timeOfDay="0">-4</value>
+      </param>
+      <param name1="FogVolume Scroll Speed-z" name2="Speed.z" type="Float">
+        <value id="30" timeOfDay="0">-10</value>
+        <value id="30" timeOfDay="4">-10</value>
+        <value id="30" timeOfDay="11.5">-10</value>
+        <value id="30" timeOfDay="16">-10</value>
+        <value id="40" timeOfDay="0">-10</value>
+        <value id="40" timeOfDay="4">-10</value>
+        <value id="40" timeOfDay="11.5">-10</value>
+        <value id="40" timeOfDay="16">-10</value>
+        <value id="41" timeOfDay="0">-1.8</value>
+        <value id="41" timeOfDay="4">-1.8</value>
+        <value id="41" timeOfDay="11.5">-1.8</value>
+        <value id="41" timeOfDay="16">-1.8</value>
+        <value id="100" timeOfDay="0">-10</value>
+      </param>
+      <param name1="FogVolume Scroll DetailScale" name2="DetailScale" type="Float">
+        <value id="30" timeOfDay="0">1</value>
+        <value id="30" timeOfDay="4">1</value>
+        <value id="30" timeOfDay="11.5">1</value>
+        <value id="30" timeOfDay="16">1</value>
+        <value id="40" timeOfDay="0">1</value>
+        <value id="40" timeOfDay="4">1</value>
+        <value id="40" timeOfDay="11.5">1</value>
+        <value id="40" timeOfDay="16">1</value>
+        <value id="41" timeOfDay="0">1</value>
+        <value id="41" timeOfDay="4">1</value>
+        <value id="41" timeOfDay="11.5">1</value>
+        <value id="41" timeOfDay="16">1</value>
+        <value id="100" timeOfDay="0">1</value>
+      </param>
+    </group>
+    <group name1="EnvironmentConfig ParamEditor" name2="EnvironmentConfig">
+      <comments />
+      <param name1="EnvironmentConfig EnvMapColorConvert Hue" name2="Hue" type="Float">
+        <value id="70" timeOfDay="0">0</value>
+      </param>
+      <param name1="EnvironmentConfig EnvMapColorConvert Saturate" name2="Saturate" type="Float">
+        <value id="70" timeOfDay="0">1</value>
+      </param>
+      <param name1="EnvironmentConfig EnvMapColorConvert Shift" name2="Shift" type="Float4">
+        <value id="70" timeOfDay="0">1 1 1 1</value>
+      </param>
+      <param name1="EnvironmentConfig EnvMapColorConvert Scale" name2="Scale" type="Float4">
+        <value id="70" timeOfDay="0">1 1 1 1</value>
+      </param>
+    </group>
+    <group name1="RayTracing ParamEditor" name2="RayTracing">
+      <comments>
+        <comment />
+      </comments>
+      <param name1="RayTracing Enable DirLightShadow" name2="Enable DirLightShadow" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing Enable AO" name2="Enable AO" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Ray SampleCount" name2="SampleCount" type="IntB">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Ray LengthMin" name2="LengthMin" type="Float">
+        <value id="0" timeOfDay="0">0.01</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Ray LengthMax" name2="LengthMax" type="Float">
+        <value id="0" timeOfDay="0">3000</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Ray EnableAlpha" name2="EnableAlpha" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing DirLightShadow ConeRadius" name2="ConeRadius" type="Float">
+        <value id="0" timeOfDay="0">0.005</value>
+      </param>
+      <param name1="RayTracing DirLightShadow PostProcess EnableDenoise" name2="EnableDenoise" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing DirLightShadow PostProcess FeedbackWeight" name2="FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Composite EnableFadeRate" name2="EnableFadeRate" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Composite FadeStartDist" name2="FadeStartDist" type="Float">
+        <value id="0" timeOfDay="0">100</value>
+      </param>
+      <param name1="RayTracing DirLightShadow Composite FadeRangeDist" name2="FadeRangeDist" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+      </param>
+      <param name1="RayTracing AO Ray SampleCount" name2="SampleCount" type="IntB">
+        <value id="0" timeOfDay="0">4</value>
+      </param>
+      <param name1="RayTracing AO Ray LengthMin" name2="LengthMin" type="Float">
+        <value id="0" timeOfDay="0">0.01</value>
+      </param>
+      <param name1="RayTracing AO Ray LengthMax" name2="LengthMax" type="Float">
+        <value id="0" timeOfDay="0">3</value>
+      </param>
+      <param name1="RayTracing AO Ray EnableAlpha" name2="EnableAlpha" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing AO Scale" name2="Scale" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="RayTracing AO Offset" name2="Offset" type="Float">
+        <value id="0" timeOfDay="0">0</value>
+      </param>
+      <param name1="RayTracing AO PostProcess EnableDenoise" name2="EnableDenoise" type="BoolB">
+        <value id="0" timeOfDay="0">False</value>
+      </param>
+      <param name1="RayTracing AO PostProcess FeedbackWeight" name2="FeedbackWeight" type="Float">
+        <value id="0" timeOfDay="0">0.9</value>
+      </param>
+      <param name1="RayTracing AO Composite EnableFadeRate" name2="EnableFadeRate" type="Float">
+        <value id="0" timeOfDay="0">1</value>
+      </param>
+      <param name1="RayTracing AO Composite FadeStartDist" name2="FadeStartDist" type="Float">
+        <value id="0" timeOfDay="0">100</value>
+      </param>
+      <param name1="RayTracing AO Composite FadeRangeDist" name2="FadeRangeDist" type="Float">
+        <value id="0" timeOfDay="0">10</value>
+      </param>
+    </group>
+  </groups>
+  <unk3s>
+    <unk3 group_index="0" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="1" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="2" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="3" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="4" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="5" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="6" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="7" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="8" unk0C="0">
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="9" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="10" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="11" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="12" unk0C="0" />
+    <unk3 group_index="13" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="14" unk0C="0" />
+    <unk3 group_index="15" unk0C="0" />
+    <unk3 group_index="16" unk0C="0" />
+    <unk3 group_index="17" unk0C="0">
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="18" unk0C="0">
+      <value_id>10</value_id>
+      <value_id>11</value_id>
+    </unk3>
+    <unk3 group_index="19" unk0C="0" />
+    <unk3 group_index="20" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="21" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+    <unk3 group_index="22" unk0C="0">
+      <value_id>0</value_id>
+      <value_id>10</value_id>
+      <value_id>20</value_id>
+      <value_id>30</value_id>
+      <value_id>40</value_id>
+      <value_id>50</value_id>
+      <value_id>60</value_id>
+      <value_id>70</value_id>
+    </unk3>
+    <unk3 group_index="23" unk0C="0">
+      <value_id>30</value_id>
+      <value_id>40</value_id>
+      <value_id>41</value_id>
+      <value_id>100</value_id>
+    </unk3>
+    <unk3 group_index="24" unk0C="0">
+      <value_id>70</value_id>
+    </unk3>
+    <unk3 group_index="25" unk0C="0">
+      <value_id>0</value_id>
+    </unk3>
+  </unk3s>
+  <unk_block_2 />
+</gparam>

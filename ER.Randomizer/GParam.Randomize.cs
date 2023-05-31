@@ -26,17 +26,17 @@ public partial class GParam_Randomize : Form
         {
             try
             {
-                /*if (!File.Exists(filePath))
+                if (!File.Exists(filePath))
                     continue;
-                File.WriteAllBytes(filePath, Resource1.gparam_template);*/
+                File.WriteAllBytes(filePath, Resource1.gparam_template);
 
                 WitchyFormats.GPARAM gparam = WitchyFormats.GPARAM.Read(filePath);
-                RandomizeParams(gparam);
+                /*RandomizeParams(gparam);*/
 
-                if (!File.Exists($"{filePath}.bak"))
+                /*if (!File.Exists($"{filePath}.bak"))
                 {
                     File.Move(filePath, $"{filePath}.bak");
-                }
+                }*/
                 gparam.Write(filePath, DCX.Type.DCX_KRAK);
             }
             catch (Exception e)
@@ -47,7 +47,7 @@ public partial class GParam_Randomize : Form
         Console.WriteLine(@"Done!");
     }  
 
-    void RandomizeParams(WitchyFormats.GPARAM file)
+   /* void RandomizeParams(WitchyFormats.GPARAM file)
     {        
         foreach (Group group in file.Groups)     
         {
@@ -189,5 +189,5 @@ public partial class GParam_Randomize : Form
             }
 
         }
-    }
+    }*/
 }
